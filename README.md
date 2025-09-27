@@ -129,60 +129,89 @@ Run: `stacer`
 
 ## Screenshots
 
+The Stacer Dashboard:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-1.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-dashboard.png" width="700" alt="The Stacer Dashboard">
 </p>
 
+The Stacer Startup Apps:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-2.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-startup-apps.png" width="700" alt="The Stacer Startup Apps">
 </p>
 
+The Stacer System cleaner:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-3.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-system-cleaner.png" width="700" alt="The Stacer System cleaner">
 </p>
 
+The Stacer System cleaner list:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-4.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-system-cleaner-list.png" width="700" alt="The Stacer System cleaner list">
 </p>
 
+The Stacer Search:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-5.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-search.png" width="700" alt="The Stacer Search">
 </p>
 
+The Stacer Services:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-6.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-services.png" width="700" alt="The Stacer Services">
 </p>
 
+The Stacer Processes:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-7.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-processes.png" width="700" alt="The Stacer Processes">
 </p>
 
+The Stacer Uninstaller:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-8.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-uninstaller.png" width="700" alt="The Stacer Uninstaller">
 </p>
 
+The Stacer Resources:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-9.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-resources.png" width="700" alt="The Stacer Resources">
 </p>
 
+The Stacer Resources usage:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-10.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-resources-usage.png" width="700" alt="The Stacer Resources usage">
 </p>
 
+The Stacer Resources system:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-11.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-resources-system.png" width="700" alt="The Stacer Resources system">
 </p>
 
+The Stacer APT Repository Manager:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-12.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-apt-repository-manager.png" width="700" alt="The Stacer APT Repository Manager">
 </p>
 
+The Stacer Gnome Settings:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-13.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-gnome-settings.png" width="700" alt="The Stacer Gnome Settings">
 </p>
 
+The Stacer Gnome Settings appearance:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-14.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-gnome-settings-appearance.png" width="700" alt="The Stacer Gnome Settings appearance">
+</p>
+
+The Stacer Helpers:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-helpers.png" width="700" alt="The Stacer Helpers">
+</p>
+
+The Stacer Settings:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-settings.png" width="700" alt="The Stacer Settings">
+</p>
+
+The Stacer Settings feedback:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-settings-feedback.png" width="700" alt="The Stacer Settings feedback">
 </p>
 
 ## Contributors

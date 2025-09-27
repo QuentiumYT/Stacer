@@ -39,43 +39,71 @@
     <screenshots>
         <screenshot type="default">
             <caption>The Stacer Dashboard</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-1.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-dashboard.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer Startup Apps</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-2.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-startup-apps.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer System cleaner</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-3.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-system-cleaner.png</image>
+        </screenshot>
+        <screenshot>
+            <caption>The Stacer System cleaner list</caption>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-system-cleaner-list.png</image>
+        </screenshot>
+        <screenshot>
+            <caption>The Stacer Search</caption>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-search.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer Services</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-5.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-services.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer Processes</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-6.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-processes.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer Uninstaller</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-7.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-uninstaller.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer Resources</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-8.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-resources.png</image>
+        </screenshot>
+        <screenshot>
+            <caption>The Stacer Resources usage</caption>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-resources-usage.png</image>
+        </screenshot>
+        <screenshot>
+            <caption>The Stacer Resources system</caption>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-resources-system.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer APT Repository Manager</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-10.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-apt-repository-manager.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer Gnome Settings</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-13.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-gnome-settings.png</image>
+        </screenshot>
+        <screenshot>
+            <caption>The Stacer Gnome Settings appearance</caption>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-gnome-settings-appearance.png</image>
+        </screenshot>
+        <screenshot>
+            <caption>The Stacer Helpers</caption>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-helpers.png</image>
         </screenshot>
         <screenshot>
             <caption>The Stacer Settings</caption>
-            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-15.png</image>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-settings.png</image>
+        </screenshot>
+        <screenshot>
+            <caption>The Stacer Settings feedback</caption>
+            <image>https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-settings-feedback.png</image>
         </screenshot>
     </screenshots>
 
