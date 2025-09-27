@@ -85,9 +85,9 @@ Using your preferred AUR helper:
 # yay
 yay -Syu stacer-bin
 # or paru
-paru -S stacer-bin
+paru -Syu stacer-bin
 # or pacaur
-pacaur -S stacer-bin
+pacaur -Syu stacer-bin
 ```
 Run: `stacer`
 
