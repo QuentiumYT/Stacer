@@ -33,139 +33,144 @@
 	</a>
 </p>
 
-### Required Packages
+## Installation
 
--   curl
--   systemd
+### Prerequisites
+- curl
+- systemd
 
-### Ubuntu PPA Repository
+### Ubuntu (PPA)
+```bash
+sudo add-apt-repository ppa:quentiumyt/stacer
+sudo apt update
+sudo apt install stacer
+stacer
+```
 
-1. Run `sudo add-apt-repository ppa:quentiumyt/stacer`
-2. Run `sudo apt update`
-3. Run `sudo apt install stacer`
+### Debian/Ubuntu (.deb)
+1. Download the `.deb` package from [Stacer releases](https://github.com/QuentiumYT/Stacer/releases).
+2. Install dependencies:
+   ```bash
+   sudo apt install libqt6core6 libqt6charts6 libqt6svg6 libqt6network6
+   ```
+3. Install package:
+   ```bash
+   sudo apt install ./stacer_*.deb
+   ```
+4. Run: `stacer`
 
-### Debian / Ubuntu
+### Debian/Ubuntu (APT)
+```bash
+sudo apt install stacer
+stacer
+```
 
-1. Download the stacer binary from the [Stacer releases page](https://github.com/QuentiumYT/Stacer/releases).
-2. Install runtime dependencies:
-    - `sudo apt install libqt6core6 libqt6charts6 libqt6svg6 libqt6network6`
-3. Run `sudo apt install ./stacer_*.deb` on the downloaded package.
-4. Launch Stacer using the installed `stacer` command.
+### Fedora (.rpm)
+1. Download the `.rpm` package from [Stacer releases](https://github.com/QuentiumYT/Stacer/releases).
+2. Install:
+   ```bash
+   sudo rpm --install stacer_*.rpm --nodeps --force
+   ```
+3. Run: `stacer`
 
-### Debian / Ubuntu (with APT)
+### Fedora (DNF)
+```bash
+sudo dnf install stacer
+stacer
+```
 
-1. Run `sudo apt install stacer`
-2. Launch Stacer using the installed `stacer` command.
+### Arch Linux (AUR)
+Using your preferred AUR helper:
+```bash
+# yay
+yay -Syu stacer-bin
+# or paru
+paru -S stacer-bin
+# or pacaur
+pacaur -S stacer-bin
+```
+Run: `stacer`
 
-### Fedora
+### CachyOS
+Using your preferred package manager:
+```bash
+# pacman
+sudo pacman -Syu stacer
+# or paru
+paru -Syu stacer
+# or yay
+yay -Syu stacer
+```
+Run: `stacer`
 
-1. Download the stacer binary from the [Stacer releases page](https://github.com/QuentiumYT/Stacer/releases).
-2. Run `sudo rpm --install stacer_*.rpm --nodeps --force` on the downloaded package.
-3. Launch Stacer using the installed `stacer` command.
+## Build from Source (CMake)
+1. Install dependencies:
+   ```bash
+   sudo apt update
+   sudo apt install cmake qt6-base-dev qt6-tools-dev qt6-tools-dev-tools qt6-l10n-tools libqt6charts6-dev libqt6svg6-dev libglx-dev libgl1-mesa-dev libxkbcommon-dev
+   ```
+   - For Ubuntu 22.04: Add `libqt6opengl6-dev`.
+   - Optional: `qt6-wayland-dev`.
 
-### Fedora (with DNF)
-
-1. Run `sudo dnf install stacer`
-2. Launch Stacer using the installed `stacer` command.
-
-### Arch Linux (with AUR)
-
-Select the AUR helper of your choice:
-
-1. Run either:
-    - `yay -Syu stacer`
-    - `paru -S stacer`
-    - `pacaur -a stacer`
-2. Launch Stacer using the installed `stacer` command.
-
-## Build from source (with CMake)
-
-1. Run `sudo apt update`
-2. Run for each dependency `sudo apt install <dependency>`
-
-Dependencies:
-
-- cmake
-- qt6-base-dev
-- qt6-tools-dev
-- qt6-tools-dev-tools
-- qt6-l10n-tools
-- libqt6opengl6-dev (required only on Ubuntu 22.04)
-- libqt6charts6-dev
-- libqt6svg6-dev
-- qt6-wayland-dev (optional)
-- libglx-dev (for Qt6OpenGL)
-- libgl1-mesa-dev (for WrapOpenGL)
-- libxkbcommon-dev (for QtGui & QtWidgets with X11)
-
-1. `cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug`
-2. `cmake --build build -j $(nproc)`
-3. `./build/stacer/stacer`
+2. Build and run:
+   ```bash
+   cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug
+   cmake --build build -j $(nproc)
+   ./build/stacer/stacer
+   ```
 
 ## Screenshots
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-1.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-1.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-2.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-2.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-3.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-3.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-4.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-4.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-5.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-5.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-6.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-6.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-7.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-7.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-8.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-8.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-9.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-9.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-10.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-10.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-11.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-11.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-12.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-12.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-13.png" width="700">
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-14.png" width="700">
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-15.png" width="700">
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.0.9-16.png" width="700">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-13.png" width="700">
 </p>
 
 ## Contributors
