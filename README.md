@@ -181,6 +181,10 @@ Run: `stacer`
     <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-13.png" width="700">
 </p>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/QuentiumYT/Stacer/main/screenshots/Screenshot-1.4.0-14.png" width="700">
+</p>
+
 ## Contributors
 
 This project exists thanks to all the people who contribute.
