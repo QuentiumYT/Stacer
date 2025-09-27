@@ -83,11 +83,11 @@ stacer
 Using your preferred AUR helper:
 ```bash
 # yay
-yay -Syu stacer-bin
+yay -S stacer-bin
 # or paru
-paru -Syu stacer-bin
+paru -S stacer-bin
 # or pacaur
-pacaur -Syu stacer-bin
+pacaur -S stacer-bin
 ```
 Run: `stacer`
 
@@ -95,11 +95,11 @@ Run: `stacer`
 Using your preferred package manager:
 ```bash
 # pacman
-sudo pacman -Syu stacer
+sudo pacman -S stacer
 # or paru
-paru -Syu stacer
+paru -S stacer
 # or yay
-yay -Syu stacer
+yay -S stacer
 ```
 Run: `stacer`
 
@@ -107,7 +107,17 @@ Run: `stacer`
 1. Install dependencies:
    ```bash
    sudo apt update
-   sudo apt install cmake qt6-base-dev qt6-tools-dev qt6-tools-dev-tools qt6-l10n-tools libqt6charts6-dev libqt6svg6-dev libglx-dev libgl1-mesa-dev libxkbcommon-dev
+   sudo apt install \
+    cmake \
+    qt6-base-dev \
+    qt6-tools-dev \
+    qt6-tools-dev-tools \
+    qt6-l10n-tools \
+    libqt6charts6-dev \
+    libqt6svg6-dev \
+    libglx-dev \
+    libgl1-mesa-dev \
+    libxkbcommon-dev
    ```
    - For Ubuntu 22.04: Add `libqt6opengl6-dev`.
    - Optional: `qt6-wayland-dev`.
