@@ -121,16 +121,6 @@ void App::createQuitMessageBox()
     connect(check, &QCheckBox::toggled, [this](bool checked) {
         SettingManager::ins()->setAppQuitDialogDontAsk(checked);
     });
-
-    connect(mBtnQuit, &QPushButton::clicked, this, [this]() {
-        SettingManager::ins()->setAppQuitDialogChoice("close");
-        QApplication::quit();
-    });
-
-    connect(mBtnContinue, &QPushButton::clicked, this, [this]() {
-        SettingManager::ins()->setAppQuitDialogChoice("hide");        
-        hide();
-    });
 }
 
 void App::closeEvent(QCloseEvent *event)
