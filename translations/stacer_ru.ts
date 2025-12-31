@@ -46,7 +46,7 @@
     <message>
       <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="133"/>
       <source>Suites</source>
-      <translation type="unfinished">Suites</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="152"/>
@@ -125,7 +125,7 @@
     <message>
       <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="75"/>
       <source>Adding...</source>
-      <translation type="unfinished">Adding...</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -1252,12 +1252,12 @@
     <message>
       <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="58"/>
       <source>Generic Name</source>
-      <translation type="unfinished">Generic Name</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="72"/>
       <source>App Icon</source>
-      <translation type="unfinished">App Icon</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="79"/>
