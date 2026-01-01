@@ -1063,7 +1063,7 @@
     <message>
       <location filename="../stacer/Pages/Services/services_page.ui" line="190"/>
       <source>Running Now ?</source>
-      <translation>En cours d'exécution ?</translation>
+      <translation>En cours d&apos;exécution ?</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Services/services_page.ui" line="244"/>
@@ -1073,7 +1073,7 @@
     <message>
       <location filename="../stacer/Pages/Services/services_page.cpp" line="32"/>
       <source>Running Status</source>
-      <translation>Statut d'exécution</translation>
+      <translation>Statut d&apos;exécution</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Services/services_page.cpp" line="32"/>
