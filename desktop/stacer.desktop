@@ -2,7 +2,9 @@
 Type=Application
 Name=Stacer
 GenericName=Linux System Optimizer and Monitoring
+GenericName[ru]=Оптимизатор и монитор системы Linux
 Comment=Optimize and monitor your Linux system
+Comment[ru]=Оптимизация и контроль вашей системы Linux
 Icon=stacer
 Hidden=false
 Exec=stacer
