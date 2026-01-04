@@ -46,7 +46,7 @@
     <message>
       <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="133"/>
       <source>Suites</source>
-      <translation type="unfinished"/>
+      <translation>Ветки</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="152"/>
