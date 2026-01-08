@@ -216,6 +216,11 @@
         <translation>Продолжить</translation>
     </message>
     <message>
+        <location filename="../stacer/app.cpp" line="113"/>
+        <source>Don&apos;t ask again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../stacer/app.cpp" line="116"/>
         <source>Will the program continue to work in the system tray?</source>
         <translation>Продолжить работу программы в системном трее?</translation>

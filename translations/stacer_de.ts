@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE" sourcelanguage="en">
+<TS version="2.1" language="de_DE" sourcelanguage="en_US">
 <context>
     <name>APTSourceEdit</name>
     <message>
@@ -214,6 +214,11 @@
         <location filename="../stacer/app.cpp" line="110"/>
         <source>Continue</source>
         <translation>Fortsetzen</translation>
+    </message>
+    <message>
+        <location filename="../stacer/app.cpp" line="113"/>
+        <source>Don&apos;t ask again.</source>
+        <translation type="unfinished">Frag nicht nochmal.</translation>
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="116"/>
