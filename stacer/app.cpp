@@ -110,7 +110,7 @@ void App::createQuitMessageBox()
     mBtnContinue = new QPushButton(tr("Continue"), this);
     mBtnContinue->setAccessibleName("primary");
     mQuitMsgBox = new QMessageBox(this);
-    QCheckBox *check = new QCheckBox("Don't ask again.");
+    QCheckBox *check = new QCheckBox(tr("Don't ask again."));
     check->setAccessibleName("circle");
     mQuitMsgBox->setWindowTitle(tr("Quit"));
     mQuitMsgBox->setText(tr("Will the program continue to work in the system tray?"));
