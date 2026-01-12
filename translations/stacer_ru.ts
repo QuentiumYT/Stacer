@@ -218,7 +218,7 @@
     <message>
       <location filename="../stacer/app.cpp" line="113"/>
       <source>Don&apos;t ask again.</source>
-      <translation type="unfinished"/>
+      <translation>Более не спрашивать.</translation>
     </message>
     <message>
       <location filename="../stacer/app.cpp" line="116"/>
