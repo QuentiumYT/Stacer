@@ -1725,7 +1725,7 @@
     <message>
       <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
       <source>Toggle Shade</source>
-      <translation>Changer l&apos;ombre</translation>
+      <translation>Activer/désactiver l&apos;ombre</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
