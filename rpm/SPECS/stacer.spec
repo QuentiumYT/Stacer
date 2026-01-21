@@ -1,5 +1,5 @@
 Name:           stacer
-Version:        1.5.0
+Version:        1.6.0
 Release:        1%{?dist}
 Summary:        Linux system optimizer and monitoring
 
@@ -8,7 +8,7 @@ URL:            https://stacer.quentium.fr/
 Source0:        %{name}-%{version}.tar.gz
 
 BuildArch:      x86_64
-Requires:       qt6-qtbase qt6-qtcharts qt6-qtsvg qt6-qtbase-gui glibc systemd curl
+Requires:       qt6-qtbase qt6-qtbase-gui qt6-qtcharts qt6-qtsvg glibc systemd curl
 
 %description
 Monitor your system (CPU, memory, disk) in a graphical application (Qt).
@@ -39,10 +39,12 @@ install -Dm644 desktop/stacer.desktop %{buildroot}/usr/share/applications/stacer
 install -Dm644 build/desktop/fr.quentium.stacer.metainfo.xml %{buildroot}/usr/share/metainfo/fr.quentium.stacer.metainfo.xml
 
 # Install icon sizes
-for size in 16 32 64 128 256; do
+for size in 16 32 64 128 256 512 1024; do
     install -Dm644 icons/hicolor/${size}x${size}/apps/stacer.png \
         %{buildroot}/usr/share/icons/hicolor/${size}x${size}/apps/stacer.png
 done
+install -Dm644 icons/hicolor/scalable/apps/stacer.svg \
+    %{buildroot}/usr/share/icons/hicolor/scalable/apps/stacer.svg
 
 # Install translation files
 mkdir -p %{buildroot}/usr/share/qt6/translations
@@ -66,6 +68,7 @@ install -Dm644 LICENSE %{buildroot}/usr/share/doc/stacer/copyright
 /usr/share/doc/stacer/changelog
 /usr/share/doc/stacer/copyright
 /usr/share/icons/hicolor/*/apps/stacer.png
+/usr/share/icons/hicolor/scalable/apps/stacer.svg
 /usr/share/metainfo/fr.quentium.stacer.metainfo.xml
 /usr/share/qt6/translations/*.qm
 

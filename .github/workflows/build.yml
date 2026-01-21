@@ -47,7 +47,7 @@ jobs:
 
       - name: Install libraries
         run: |
-          sudo apt-get install -y qt6-base-dev qt6-tools-dev qt6-tools-dev-tools qt6-l10n-tools libqt6opengl6-dev libqt6charts6-dev libqt6svg6-dev qt6-wayland-dev libglx-dev libgl1-mesa-dev libxkbcommon-dev libvulkan-dev
+          sudo apt-get install -y qt6-base-dev qt6-tools-dev qt6-tools-dev-tools qt6-l10n-tools libqt6charts6-dev libqt6svg6-dev qt6-wayland-dev libglx-dev libgl1-mesa-dev libxkbcommon-dev
           sudo apt-get install -y libfuse2
 
       - name: Install build tools
@@ -73,9 +73,19 @@ jobs:
 
       - name: Get changelog
         id: changelog
+        if: github.event_name != 'workflow_dispatch' && matrix.codename == 'jammy'
         run: |
-          CHANGELOG=$(awk '/^stacer \(/ {if (NR!=1) exit} /^[ ]*\*/ {print}' debian/changelog)
-          echo "changelog=$CHANGELOG" >> $GITHUB_OUTPUT
+          CHANGELOG=$(awk '/^stacer \(/ {if (NR!=1) exit} /^[ ]*\*/ {print}' ${{ github.workspace }}/debian/changelog)
+          echo "changelog<<EOF" >> $GITHUB_OUTPUT
+          printf "%s\n" "$CHANGELOG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Get previous tag
+        id: previous_tag
+        if: github.event_name != 'workflow_dispatch' && matrix.codename == 'jammy'
+        run: |
+          PREVIOUS_TAG=$(git tag --sort=-v:refname | grep -v "^${GITHUB_REF_NAME}$" | head -n 1)
+          echo "previous_tag=$PREVIOUS_TAG" >> $GITHUB_OUTPUT
 
       - name: Publish release
         uses: softprops/action-gh-release@v2
@@ -86,11 +96,11 @@ jobs:
           body: |
             Fix and features:
 
-            {{ steps.changelog.outputs.changelog }}
+            ${{ steps.changelog.outputs.changelog }}
 
             NOTE: I'm now publishing GitHub Actions builds in every release, all previous self compiled binaries are now removed. deb, rpm and AppImage files are from the oldest supported Ubuntu version (currently jammy).
 
-            **Full Changelog**: https://github.com/QuentiumYT/Stacer/compare/main...${{ github.ref_name }}
+            **Full Changelog**: https://github.com/QuentiumYT/Stacer/compare/${{ steps.previous_tag.outputs.previous_tag }}...${{ github.ref_name }}
           files: |
             ${{ github.workspace }}/release/stacer_*.deb
             ${{ github.workspace }}/release/stacer-*.rpm

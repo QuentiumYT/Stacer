@@ -2,7 +2,7 @@ Source: stacer
 Section: utils
 Priority: optional
 Maintainer: Quentin Lienhardt <pro@quentium.fr>
-Build-Depends: cmake, debhelper (>= 12), qt6-base-dev, qt6-tools-dev, qt6-tools-dev-tools, qt6-l10n-tools, libqt6opengl6-dev, libqt6charts6-dev, libqt6svg6-dev, qt6-wayland-dev, libglx-dev, libgl1-mesa-dev, libxkbcommon-dev
+Build-Depends: cmake, debhelper (>= 12), qt6-base-dev, qt6-tools-dev, qt6-tools-dev-tools, qt6-l10n-tools, libqt6charts6-dev, libqt6svg6-dev, qt6-wayland-dev, libglx-dev, libgl1-mesa-dev, libxkbcommon-dev
 Standards-Version: 4.7.2
 Rules-Requires-Root: no
 Vcs-Browser: https://github.com/QuentiumYT/Stacer
@@ -11,7 +11,7 @@ Homepage: https://stacer.quentium.fr/
 
 Package: stacer
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libc6 (>= 2.34), libqt6core6 (>= 6.2.4), libqt6charts6 (>= 6.2.4), libqt6svg6 (>= 6.2.4), libqt6network6 (>= 6.2.4)
+Depends: ${shlibs:Depends}, ${misc:Depends}, libc6 (>= 2.34), libqt6core6 (>= 6.2.4), libqt6gui6 (>= 6.2.4), libqt6widgets6 (>= 6.2.4), libqt6charts6 (>= 6.2.4), libqt6svg6 (>= 6.2.4), libqt6concurrent6 (>= 6.2.4), libqt6network6 (>= 6.2.4)
 Recommends: systemd, curl
 Description: Linux system optimizer and monitoring
  Monitor your system (CPU, memory, disk) in a graphical application (qt).

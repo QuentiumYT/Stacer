@@ -27,9 +27,10 @@ bool StartupAppsPage::checkIfDisabled(const QString &as_path)
 #endif
 
     QFile autostart_file(as_path);
-
-    autostart_file.open(QIODevice::ReadOnly | QIODevice::Text);
-
+    if (!autostart_file.open(QIODevice::ReadOnly | QIODevice::Text)) {
+        // Could not open file, assume not disabled
+        return false;
+    }
     return autostart_file.readAll().indexOf(disabled_str, 0) != -1;
 }
 

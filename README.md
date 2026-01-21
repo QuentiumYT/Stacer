@@ -64,7 +64,7 @@ stacer
 1. Download the `.deb` package from [Stacer releases](https://github.com/QuentiumYT/Stacer/releases).
 2. Install dependencies:
    ```bash
-   sudo apt install libqt6core6 libqt6charts6 libqt6svg6 libqt6network6
+   sudo apt install libqt6core6 libqt6gui6 libqt6widgets6 libqt6charts6 libqt6svg6 libqt6concurrent6 libqt6network6
    ```
 3. Install package:
    ```bash
@@ -124,13 +124,13 @@ Run: `stacer`
     qt6-tools-dev \
     qt6-tools-dev-tools \
     qt6-l10n-tools \
-    libqt6charts6-dev \
-    libqt6svg6-dev \
+    qt6-charts-dev \
+    qt6-svg-dev \
     libglx-dev \
     libgl1-mesa-dev \
     libxkbcommon-dev
    ```
-   - For Ubuntu 22.04: Add `libqt6opengl6-dev`.
+   - For Ubuntu 22.04: `libqt6charts6-dev libqt6svg6-dev`.
    - Optional: `qt6-wayland-dev`.
 
 2. Build and run:

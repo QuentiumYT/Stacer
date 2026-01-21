@@ -1,3 +1,19 @@
+stacer (1.6.0-1) stable; urgency=medium
+
+  * Add support for deb822 source files for APT (>= Debian 13 / Ubuntu 24.04)
+  * Tweak various behaviours in the APT tab & freeze button while adding a new PPA
+  * Remade logo for SVG version & higher quality in Illustrator
+  * Fix app closing issues still running in the background (Thanks @martin-ms) #20
+  * Update German translations (Thanks @martin-ms) #21
+  * Use LC_ALL=C to force english output on non-english OS for lscpu parsing
+  * Setup Crowdin in the repo for easier translation management & link in README
+  * Merge l10n branch with Crowdin translations order & code style
+  * Skip UI useless translations & fix wrong french translations & few incoherences
+  * Fix wrong language codes & add english name (Ukrainian & Vietnamese)
+  * Fix future C++20 deprecations
+
+ -- Quentin Lienhardt <pro@quentium.fr>  Thu, 01 Jan 2026 13:53:24 +0100
+
 stacer (1.5.0-1) stable; urgency=medium
 
   * Fix lscpu lang to get hardware info & add fallback

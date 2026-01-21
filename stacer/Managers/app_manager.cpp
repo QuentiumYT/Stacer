@@ -16,7 +16,7 @@ AppManager::AppManager()
 {
     mSettingManager = SettingManager::ins();
 
-    mTrayIcon = new QSystemTrayIcon(QIcon(":/static/themes/default/img/sidebar-icons/dash.png"));
+    mTrayIcon = new QSystemTrayIcon(QIcon(":/static/logo.png"));
 
     loadLanguageList();
 
