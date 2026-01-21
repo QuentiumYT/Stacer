@@ -206,7 +206,7 @@
     <message>
         <location filename="../stacer/app.cpp" line="108"/>
         <location filename="../stacer/app.cpp" line="115"/>
-        <location filename="../stacer/app.cpp" line="171"/>
+        <location filename="../stacer/app.cpp" line="173"/>
         <source>Quit</source>
         <translation>പുറത്ത് കടക്കുക</translation>
     </message>
@@ -1293,12 +1293,12 @@
         <translation>സ്റ്റാർട്ടപ്പ് പ്രയോഗം ചേർക്കുക</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="66"/>
+        <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="67"/>
         <source>Startup Apps are disabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="126"/>
+        <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="127"/>
         <source>Startup Applications (%1)</source>
         <translation>സ്റ്റാർട്ടപ്പ് പ്രയോഗങ്ങൾ (%1)</translation>
     </message>
