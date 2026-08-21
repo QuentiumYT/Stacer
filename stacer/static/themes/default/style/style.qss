@@ -13,11 +13,11 @@ QScrollBar:vertical {
     margin: 0;
     padding: 1 1 1 1;
     border-radius: 0;
-    background-color: @buttonBackground;
+    background-color: @globalHoverBackground;
 }
 
 QScrollBar::handle:vertical {
-    background-color: @globalBackground;
+    background-color: @buttonBackground;
     min-height: 20px;
     border-radius: 2;
 }
@@ -47,11 +47,11 @@ QScrollBar:horizontal {
     margin: 0;
     padding: 1 1 1 1;
     border-radius: 0;
-    background-color: @buttonBackground;
+    background-color: @globalHoverBackground;
 }
 
 QScrollBar::handle:horizontal {
-    background-color: @globalBackground;
+    background-color: @buttonBackground;
     min-width: 20px;
     border-radius: 2;
 }
