@@ -283,7 +283,10 @@ QComboBox::down-arrow:on {
 
 QComboBox QAbstractItemView {
     background-color: @globalBackground;
+    color: @globalText;
     border: 0;
+    selection-background-color: @globalHoverBackground;
+    selection-color: @globalText;
 }
 
 /***************
