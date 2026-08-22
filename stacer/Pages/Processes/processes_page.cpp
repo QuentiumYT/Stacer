@@ -27,7 +27,7 @@ void ProcessesPage::init()
 {
     mHeaders = QStringList {
         "PID", tr("Resident Memory"), tr("%Memory"), tr("Virtual Memory"),
-        tr("User"), "%CPU", tr("Start Time"), tr("State"), tr("Group"),
+        tr("User"), tr("%CPU"), tr("Start Time"), tr("State"), tr("Group"),
         tr("Nice"), tr("CPU Time"), tr("Session"), tr("Process")
     };
 
