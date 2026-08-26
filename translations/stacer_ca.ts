@@ -1,1786 +1,1786 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ca_ES" sourcelanguage="en">
-  <context>
+<context>
     <name>APTSourceEdit</name>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="14"/>
-      <source>APT Repository Edit</source>
-      <translation>Edita els repositoris APT</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="14"/>
+        <source>APT Repository Edit</source>
+        <translation>Edita els repositoris APT</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="38"/>
-      <source>APT Repository</source>
-      <translation>Repositori APT</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="38"/>
+        <source>APT Repository</source>
+        <translation>Repositori APT</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="48"/>
-      <source>Components</source>
-      <translation>Components</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="48"/>
+        <source>Components</source>
+        <translation>Components</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="55"/>
-      <source>Options</source>
-      <translation>Opcions</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="55"/>
+        <source>Options</source>
+        <translation>Opcions</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="71"/>
-      <source>Cancel</source>
-      <translation>Cancel·la</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="71"/>
+        <source>Cancel</source>
+        <translation>Cancel·la</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="87"/>
-      <source>Fields cannot be left blank.</source>
-      <translation>Els camps no es poden deixar en blanc.</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="87"/>
+        <source>Fields cannot be left blank.</source>
+        <translation>Els camps no es poden deixar en blanc.</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="94"/>
-      <source>URI</source>
-      <translation>URI</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="94"/>
+        <source>URI</source>
+        <translation>URI</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="110"/>
-      <source>Save</source>
-      <translation>Desa</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="110"/>
+        <source>Save</source>
+        <translation>Desa</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="133"/>
-      <source>Suites</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="133"/>
+        <source>Suites</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="152"/>
-      <source>Source</source>
-      <translation>Origen</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="152"/>
+        <source>Source</source>
+        <translation>Origen</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="177"/>
-      <source>Binary</source>
-      <translation>Binari</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="177"/>
+        <source>Binary</source>
+        <translation>Binari</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>APTSourceManagerPage</name>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="188"/>
-      <source>Search...</source>
-      <translation>Cerca...</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="188"/>
+        <source>Search...</source>
+        <translation>Cerca...</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="226"/>
-      <source>Edit</source>
-      <translation>Edita</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="226"/>
+        <source>Edit</source>
+        <translation>Edita</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="14"/>
-      <source>APT Repository Manager</source>
-      <translation>Administrador de repositoris APT</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="14"/>
+        <source>APT Repository Manager</source>
+        <translation>Administrador de repositoris APT</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="125"/>
-      <source>Not Found APT Repositories</source>
-      <translation>No s&apos;ha trobat repositoris APT</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="125"/>
+        <source>Not Found APT Repositories</source>
+        <translation>No s&apos;ha trobat repositoris APT</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="269"/>
-      <source>Delete</source>
-      <translation>Esborra</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="269"/>
+        <source>Delete</source>
+        <translation>Esborra</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="308"/>
-      <source>Enable Source</source>
-      <translation>Activa l&apos;origen</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="308"/>
+        <source>Enable Source</source>
+        <translation>Activa l&apos;origen</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="338"/>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="104"/>
-      <source>Add Repository</source>
-      <translation>Afegeix un repositori</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="338"/>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="104"/>
+        <source>Add Repository</source>
+        <translation>Afegeix un repositori</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="371"/>
-      <source>Cancel</source>
-      <translation>Cancel·la</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="371"/>
+        <source>Cancel</source>
+        <translation>Cancel·la</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="419"/>
-      <source>Select to delete or edit.</source>
-      <translation>Seleccioneu per suprimir-lo o editar-lo</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="419"/>
+        <source>Select to delete or edit.</source>
+        <translation>Seleccioneu per suprimir-lo o editar-lo</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="27"/>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="31"/>
-      <source>example %1</source>
-      <translation>exemple %1</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="27"/>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="31"/>
+        <source>example %1</source>
+        <translation>exemple %1</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="72"/>
-      <source>APT Repositories (%1)</source>
-      <translation>Repositoris APT (%1)</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="72"/>
+        <source>APT Repositories (%1)</source>
+        <translation>Repositoris APT (%1)</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="78"/>
-      <source>Save</source>
-      <translation>Desa</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="78"/>
+        <source>Save</source>
+        <translation>Desa</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="84"/>
-      <source>Adding...</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="84"/>
+        <source>Adding...</source>
+        <translation type="unfinished"></translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>APTSourceRepositoryItem</name>
     <message>
-      <location filename="../stacer/Pages/AptSourceManager/apt_source_repository_item.cpp" line="35"/>
-      <source>%1 (Source Code)</source>
-      <translation>%1 (Codi font)</translation>
+        <location filename="../stacer/Pages/AptSourceManager/apt_source_repository_item.cpp" line="35"/>
+        <source>%1 (Source Code)</source>
+        <translation>%1 (Codi font)</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>App</name>
     <message>
-      <location filename="../stacer/app.ui" line="101"/>
-      <source>Dashboard</source>
-      <translation>Panell de control</translation>
+        <location filename="../stacer/app.ui" line="101"/>
+        <source>Dashboard</source>
+        <translation>Panell de control</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="135"/>
-      <source>Startup Apps</source>
-      <translation>Aplicacions d&apos;inici</translation>
+        <location filename="../stacer/app.ui" line="135"/>
+        <source>Startup Apps</source>
+        <translation>Aplicacions d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="163"/>
-      <source>System Cleaner</source>
-      <translation>Netejador del sistema</translation>
+        <location filename="../stacer/app.ui" line="163"/>
+        <source>System Cleaner</source>
+        <translation>Netejador del sistema</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="194"/>
-      <source>Search</source>
-      <translation>Cerca</translation>
+        <location filename="../stacer/app.ui" line="194"/>
+        <source>Search</source>
+        <translation>Cerca</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="278"/>
-      <source>Uninstaller</source>
-      <translation>Desinstal·lador</translation>
+        <location filename="../stacer/app.ui" line="278"/>
+        <source>Uninstaller</source>
+        <translation>Desinstal·lador</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="306"/>
-      <source>Resources</source>
-      <translation>Recursos</translation>
+        <location filename="../stacer/app.ui" line="306"/>
+        <source>Resources</source>
+        <translation>Recursos</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="334"/>
-      <source>Helpers</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/app.ui" line="334"/>
+        <source>Helpers</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="362"/>
-      <source>APT Repository Manager</source>
-      <translation>Administrador de repositoris APT</translation>
+        <location filename="../stacer/app.ui" line="362"/>
+        <source>APT Repository Manager</source>
+        <translation>Administrador de repositoris APT</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="250"/>
-      <source>Processes</source>
-      <translation>Processos</translation>
+        <location filename="../stacer/app.ui" line="250"/>
+        <source>Processes</source>
+        <translation>Processos</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="222"/>
-      <source>Services</source>
-      <translation>Serveis</translation>
+        <location filename="../stacer/app.ui" line="222"/>
+        <source>Services</source>
+        <translation>Serveis</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="390"/>
-      <source>Gnome Settings</source>
-      <translation>Configuració del Gnome</translation>
+        <location filename="../stacer/app.ui" line="390"/>
+        <source>Gnome Settings</source>
+        <translation>Configuració del Gnome</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="418"/>
-      <source>Settings</source>
-      <translation>Configuració</translation>
+        <location filename="../stacer/app.ui" line="418"/>
+        <source>Settings</source>
+        <translation>Configuració</translation>
     </message>
     <message>
-      <location filename="../stacer/app.ui" line="459"/>
-      <source>Feedback</source>
-      <translation>Comentaris</translation>
+        <location filename="../stacer/app.ui" line="459"/>
+        <source>Feedback</source>
+        <translation>Comentaris</translation>
     </message>
     <message>
-      <location filename="../stacer/app.cpp" line="114"/>
-      <location filename="../stacer/app.cpp" line="121"/>
-      <location filename="../stacer/app.cpp" line="179"/>
-      <source>Quit</source>
-      <translation>Surt</translation>
+        <location filename="../stacer/app.cpp" line="114"/>
+        <location filename="../stacer/app.cpp" line="121"/>
+        <location filename="../stacer/app.cpp" line="179"/>
+        <source>Quit</source>
+        <translation>Surt</translation>
     </message>
     <message>
-      <location filename="../stacer/app.cpp" line="116"/>
-      <source>Continue</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/app.cpp" line="116"/>
+        <source>Continue</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/app.cpp" line="119"/>
-      <source>Don&apos;t ask again.</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/app.cpp" line="119"/>
+        <source>Don&apos;t ask again.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/app.cpp" line="122"/>
-      <source>Will the program continue to work in the system tray?</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/app.cpp" line="122"/>
+        <source>Will the program continue to work in the system tray?</source>
+        <translation type="unfinished"></translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>AppearanceSettings</name>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="44"/>
-      <source>Screen Applications</source>
-      <translation>Aplicacions de pantalla</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="44"/>
+        <source>Screen Applications</source>
+        <translation>Aplicacions de pantalla</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="74"/>
-      <source>Screen Reader</source>
-      <translation>Lector de pantalla</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="74"/>
+        <source>Screen Reader</source>
+        <translation>Lector de pantalla</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="100"/>
-      <source>Screen Keyboard</source>
-      <translation>Teclat en pantalla</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="100"/>
+        <source>Screen Keyboard</source>
+        <translation>Teclat en pantalla</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="136"/>
-      <source>Background Image Mode</source>
-      <translation>Mode d&apos;imatge de fons</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="136"/>
+        <source>Background Image Mode</source>
+        <translation>Mode d&apos;imatge de fons</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="166"/>
-      <source>Desktop Mode</source>
-      <translation>Mode d&apos;escriptori</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="166"/>
+        <source>Desktop Mode</source>
+        <translation>Mode d&apos;escriptori</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="204"/>
-      <source>Login Mode</source>
-      <translation>Mode d&apos;inici de sessió</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="204"/>
+        <source>Login Mode</source>
+        <translation>Mode d&apos;inici de sessió</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="252"/>
-      <source>Icons</source>
-      <translation>Icones</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="252"/>
+        <source>Icons</source>
+        <translation>Icones</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="282"/>
-      <source>Home Icon</source>
-      <translation>Icona d&apos;inici</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="282"/>
+        <source>Home Icon</source>
+        <translation>Icona d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="308"/>
-      <source>Trash Icon</source>
-      <translation>Icona de la paperera</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="308"/>
+        <source>Trash Icon</source>
+        <translation>Icona de la paperera</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="321"/>
-      <source>Mounted Volumes Icon</source>
-      <translation>Icona dels volums muntats</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="321"/>
+        <source>Mounted Volumes Icon</source>
+        <translation>Icona dels volums muntats</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="347"/>
-      <source>Show Desktop Icons</source>
-      <translation>Mostra les icones de l&apos;escriptori</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="347"/>
+        <source>Show Desktop Icons</source>
+        <translation>Mostra les icones de l&apos;escriptori</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="373"/>
-      <source>Network Icon</source>
-      <translation>Icona de la xarxa</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="373"/>
+        <source>Network Icon</source>
+        <translation>Icona de la xarxa</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
-      <source>None</source>
-      <translation>Cap</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
+        <source>None</source>
+        <translation>Cap</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
-      <source>Wallpaper</source>
-      <translation>Fons de pantalla</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
+        <source>Wallpaper</source>
+        <translation>Fons de pantalla</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
-      <source>Centered</source>
-      <translation>Centrat</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
+        <source>Centered</source>
+        <translation>Centrat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
-      <source>Scaled</source>
-      <translation>Escalat</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
+        <source>Scaled</source>
+        <translation>Escalat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
-      <source>Stretched</source>
-      <translation>Estirat</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
+        <source>Stretched</source>
+        <translation>Estirat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
-      <source>Zoom</source>
-      <translation>Augmentat</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
+        <source>Zoom</source>
+        <translation>Augmentat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
-      <source>Spanned</source>
-      <translation>Expandit</translation>
+        <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
+        <source>Spanned</source>
+        <translation>Expandit</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>DashboardPage</name>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="20"/>
-      <source>Dashboard</source>
-      <translation>Panell de control</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="20"/>
+        <source>Dashboard</source>
+        <translation>Panell de control</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="156"/>
-      <source>SYSTEM INFO</source>
-      <translation>INFORMACIÓ DEL SISTEMA</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="156"/>
+        <source>SYSTEM INFO</source>
+        <translation>INFORMACIÓ DEL SISTEMA</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="230"/>
-      <source>A new update is now available.</source>
-      <translation>Hi ha actualitzacions disponibles.</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="230"/>
+        <source>A new update is now available.</source>
+        <translation>Hi ha actualitzacions disponibles.</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="246"/>
-      <source>Download</source>
-      <translation>Baixa</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="246"/>
+        <source>Download</source>
+        <translation>Baixa</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="18"/>
-      <source>CPU</source>
-      <translation>CPU</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="18"/>
+        <source>CPU</source>
+        <translation>CPU</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="19"/>
-      <source>MEMORY</source>
-      <translation>MEMÒRIA</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="19"/>
+        <source>MEMORY</source>
+        <translation>MEMÒRIA</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="20"/>
-      <source>DISK</source>
-      <translation>DISC</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="20"/>
+        <source>DISK</source>
+        <translation>DISC</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="21"/>
-      <source>DOWNLOAD</source>
-      <translation>BAIXADA</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="21"/>
+        <source>DOWNLOAD</source>
+        <translation>BAIXADA</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="22"/>
-      <source>UPLOAD</source>
-      <translation>PUJADA</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="22"/>
+        <source>UPLOAD</source>
+        <translation>PUJADA</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="111"/>
-      <source>Hostname: %1</source>
-      <translation>Nom de l&apos;amfitrió: %1</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="111"/>
+        <source>Hostname: %1</source>
+        <translation>Nom de l&apos;amfitrió: %1</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="112"/>
-      <source>Platform: %1</source>
-      <translation>Plataforma: %1</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="112"/>
+        <source>Platform: %1</source>
+        <translation>Plataforma: %1</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="113"/>
-      <source>Distribution: %1</source>
-      <translation>Distribució: %1</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="113"/>
+        <source>Distribution: %1</source>
+        <translation>Distribució: %1</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="114"/>
-      <source>Kernel Release: %1</source>
-      <translation>Versió del nucli: %1</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="114"/>
+        <source>Kernel Release: %1</source>
+        <translation>Versió del nucli: %1</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="115"/>
-      <source>CPU Model: %1</source>
-      <translation>Model de la CPU: %1</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="115"/>
+        <source>CPU Model: %1</source>
+        <translation>Model de la CPU: %1</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="116"/>
-      <source>CPU Core: %1</source>
-      <translation>Nuclis de la CPU: %1</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="116"/>
+        <source>CPU Core: %1</source>
+        <translation>Nuclis de la CPU: %1</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="117"/>
-      <source>CPU Speed: %1</source>
-      <translation>Velocitat de la CPU: %1</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="117"/>
+        <source>CPU Speed: %1</source>
+        <translation>Velocitat de la CPU: %1</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="135"/>
-      <source>High CPU Usage</source>
-      <translation>Ús alt de CPU</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="135"/>
+        <source>High CPU Usage</source>
+        <translation>Ús alt de CPU</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="136"/>
-      <source>The amount of CPU used is over %1%.</source>
-      <translation>La quantitat de CPU utilitzada és superior al %1%.</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="136"/>
+        <source>The amount of CPU used is over %1%.</source>
+        <translation>La quantitat de CPU utilitzada és superior al %1%.</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="164"/>
-      <source>High Memory Usage</source>
-      <translation>Ús alt de memòria</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="164"/>
+        <source>High Memory Usage</source>
+        <translation>Ús alt de memòria</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="165"/>
-      <source>The amount of memory used is over %1%.</source>
-      <translation>La quantitat de memòria utilitzada és superior al %1%.</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="165"/>
+        <source>The amount of memory used is over %1%.</source>
+        <translation>La quantitat de memòria utilitzada és superior al %1%.</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="208"/>
-      <source>High Disk Usage</source>
-      <translation>Ús alt de disc</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="208"/>
+        <source>High Disk Usage</source>
+        <translation>Ús alt de disc</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="209"/>
-      <source>The amount of disk used is over %1%.</source>
-      <translation>La quantitat de disc utilitzat és superior al %1%.</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="209"/>
+        <source>The amount of disk used is over %1%.</source>
+        <translation>La quantitat de disc utilitzat és superior al %1%.</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="247"/>
-      <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="251"/>
-      <source>Total: %1</source>
-      <translation>Total: %1</translation>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="247"/>
+        <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="251"/>
+        <source>Total: %1</source>
+        <translation>Total: %1</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>Feedback</name>
     <message>
-      <location filename="../stacer/feedback.ui" line="14"/>
-      <source>Feedback</source>
-      <translation>Comentaris</translation>
+        <location filename="../stacer/feedback.ui" line="14"/>
+        <source>Feedback</source>
+        <translation>Comentaris</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.ui" line="61"/>
-      <source>Name</source>
-      <translation>Nom</translation>
+        <location filename="../stacer/feedback.ui" line="61"/>
+        <source>Name</source>
+        <translation>Nom</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.ui" line="68"/>
-      <source>Email Address</source>
-      <translation>Adreça de correu</translation>
+        <location filename="../stacer/feedback.ui" line="68"/>
+        <source>Email Address</source>
+        <translation>Adreça de correu</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.ui" line="97"/>
-      <source>Send</source>
-      <translation>Envia</translation>
+        <location filename="../stacer/feedback.ui" line="97"/>
+        <source>Send</source>
+        <translation>Envia</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.ui" line="120"/>
-      <source>Close</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/feedback.ui" line="120"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.ui" line="54"/>
-      <source>Message</source>
-      <translation>Missatge</translation>
+        <location filename="../stacer/feedback.ui" line="54"/>
+        <source>Message</source>
+        <translation>Missatge</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.ui" line="78"/>
-      <source>Send feedback</source>
-      <translation>Envia comentaris</translation>
+        <location filename="../stacer/feedback.ui" line="78"/>
+        <source>Send feedback</source>
+        <translation>Envia comentaris</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.cpp" line="46"/>
-      <source>Email address is not valid !</source>
-      <translation>L&apos;adreça de correu no es vàlida</translation>
+        <location filename="../stacer/feedback.cpp" line="46"/>
+        <source>Email address is not valid !</source>
+        <translation>L&apos;adreça de correu no es vàlida</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.cpp" line="51"/>
-      <source>Your message must be at least 5 characters !</source>
-      <translation>El vostre missatge ha de tenir com a mínim 5 caràcters!</translation>
+        <location filename="../stacer/feedback.cpp" line="51"/>
+        <source>Your message must be at least 5 characters !</source>
+        <translation>El vostre missatge ha de tenir com a mínim 5 caràcters!</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.cpp" line="59"/>
-      <source>Sending...</source>
-      <translation>S&apos;està enviant...</translation>
+        <location filename="../stacer/feedback.cpp" line="59"/>
+        <source>Sending...</source>
+        <translation>S&apos;està enviant...</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.cpp" line="78"/>
-      <source>&lt;font color=&apos;#2ecc71&apos;&gt;Your feedback has been successfully sent. Thanks!&lt;/font&gt;</source>
-      <translation>&lt;font color=&apos;#2ecc71&apos;&gt;Els vostres comentaris s&apos;han enviat amb èxit.&lt;/font&gt;</translation>
+        <location filename="../stacer/feedback.cpp" line="78"/>
+        <source>&lt;font color=&apos;#2ecc71&apos;&gt;Your feedback has been successfully sent. Thanks!&lt;/font&gt;</source>
+        <translation>&lt;font color=&apos;#2ecc71&apos;&gt;Els vostres comentaris s&apos;han enviat amb èxit.&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.cpp" line="80"/>
-      <location filename="../stacer/feedback.cpp" line="85"/>
-      <source>Something went wrong, try again !</source>
-      <translation>S&apos;ha produït un error, torneu-ho a provar.</translation>
+        <location filename="../stacer/feedback.cpp" line="80"/>
+        <location filename="../stacer/feedback.cpp" line="85"/>
+        <source>Something went wrong, try again !</source>
+        <translation>S&apos;ha produït un error, torneu-ho a provar.</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.cpp" line="88"/>
-      <source>Save</source>
-      <translation>Desa</translation>
+        <location filename="../stacer/feedback.cpp" line="88"/>
+        <source>Save</source>
+        <translation>Desa</translation>
     </message>
     <message>
-      <location filename="../stacer/feedback.cpp" line="93"/>
-      <source>Fields cannot be left blank !</source>
-      <translation>Els camps no es poden deixar en blanc!</translation>
+        <location filename="../stacer/feedback.cpp" line="93"/>
+        <source>Fields cannot be left blank !</source>
+        <translation>Els camps no es poden deixar en blanc!</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>GnomeSettingsPage</name>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="14"/>
-      <source>Gnome Settings</source>
-      <translation>Configuració del Gnome</translation>
+        <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="14"/>
+        <source>Gnome Settings</source>
+        <translation>Configuració del Gnome</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="49"/>
-      <source>Unity Settings</source>
-      <translation>Configuració del Unity</translation>
+        <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="49"/>
+        <source>Unity Settings</source>
+        <translation>Configuració del Unity</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="81"/>
-      <source>Window Manager</source>
-      <translation>Administrador de finestres</translation>
+        <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="81"/>
+        <source>Window Manager</source>
+        <translation>Administrador de finestres</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="110"/>
-      <source>Appearance</source>
-      <translation>Aparença</translation>
+        <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="110"/>
+        <source>Appearance</source>
+        <translation>Aparença</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>HelpersPage</name>
     <message>
-      <location filename="../stacer/Pages/Helpers/helpers_page.ui" line="14"/>
-      <source>Helpers</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/helpers_page.ui" line="14"/>
+        <source>Helpers</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/helpers_page.ui" line="62"/>
-      <source>Host Manage</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/helpers_page.ui" line="62"/>
+        <source>Host Manage</source>
+        <translation type="unfinished"></translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>HostManage</name>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.ui" line="14"/>
-      <source>Form</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.ui" line="63"/>
-      <source>Save Changes</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.ui" line="63"/>
+        <source>Save Changes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.ui" line="110"/>
-      <source>New Host</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.ui" line="110"/>
+        <source>New Host</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.ui" line="146"/>
-      <source>IP Address *</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.ui" line="146"/>
+        <source>IP Address *</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.ui" line="153"/>
-      <source>Fully Qualified Name *</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.ui" line="153"/>
+        <source>Fully Qualified Name *</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.ui" line="160"/>
-      <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
-      <source>Aliases</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.ui" line="160"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
+        <source>Aliases</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.ui" line="176"/>
-      <source>Save</source>
-      <translation>Desa</translation>
+        <location filename="../stacer/Pages/Helpers/host_manage.ui" line="176"/>
+        <source>Save</source>
+        <translation>Desa</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.ui" line="192"/>
-      <source>Cancel</source>
-      <translation>Cancel·la</translation>
+        <location filename="../stacer/Pages/Helpers/host_manage.ui" line="192"/>
+        <source>Cancel</source>
+        <translation>Cancel·la</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="26"/>
-      <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="100"/>
-      <source>Hosts (%1)</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="26"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="100"/>
+        <source>Hosts (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
-      <source>IP Address</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
+        <source>IP Address</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
-      <source>Full Qualified</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
+        <source>Full Qualified</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="137"/>
-      <source>Edit</source>
-      <translation>Edita</translation>
+        <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="137"/>
+        <source>Edit</source>
+        <translation>Edita</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="141"/>
-      <source>Delete</source>
-      <translation>Esborra</translation>
+        <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="141"/>
+        <source>Delete</source>
+        <translation>Esborra</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="149"/>
-      <source>The IP and Fully Qualified fields are required.</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="149"/>
+        <source>The IP and Fully Qualified fields are required.</source>
+        <translation type="unfinished"></translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ProcessesPage</name>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.ui" line="14"/>
-      <location filename="../stacer/Pages/Processes/processes_page.ui" line="55"/>
-      <source>Processes</source>
-      <translation>Processos</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.ui" line="14"/>
+        <location filename="../stacer/Pages/Processes/processes_page.ui" line="55"/>
+        <source>Processes</source>
+        <translation>Processos</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.ui" line="71"/>
-      <source>All Processes</source>
-      <translation>Tots els processos</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.ui" line="71"/>
+        <source>All Processes</source>
+        <translation>Tots els processos</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.ui" line="96"/>
-      <source>Search...</source>
-      <translation>Cerca...</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.ui" line="96"/>
+        <source>Search...</source>
+        <translation>Cerca...</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.ui" line="217"/>
-      <source>End Process</source>
-      <translation>Finalitza el procés</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.ui" line="217"/>
+        <source>End Process</source>
+        <translation>Finalitza el procés</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
-      <source>User</source>
-      <translation>Usuari</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
+        <source>User</source>
+        <translation>Usuari</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="29"/>
-      <source>Resident Memory</source>
-      <translation>Memòria resident</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="29"/>
+        <source>Resident Memory</source>
+        <translation>Memòria resident</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="29"/>
-      <source>%Memory</source>
-      <translation>%Memòria</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="29"/>
+        <source>%Memory</source>
+        <translation>%Memòria</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="29"/>
-      <source>Virtual Memory</source>
-      <translation>Memòria virtual</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="29"/>
+        <source>Virtual Memory</source>
+        <translation>Memòria virtual</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
-      <source>Start Time</source>
-      <translation>Hora d&apos;inici</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
+        <source>Start Time</source>
+        <translation>Hora d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
-      <source>State</source>
-      <translation>Estat</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
+        <source>State</source>
+        <translation>Estat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
-      <source>Group</source>
-      <translation>Grup</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
+        <source>Group</source>
+        <translation>Grup</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
-      <source>Nice</source>
-      <translation>Bonic</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
+        <source>Nice</source>
+        <translation>Bonic</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
-      <source>CPU Time</source>
-      <translation>Temps de la CPU</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
+        <source>CPU Time</source>
+        <translation>Temps de la CPU</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
-      <source>Session</source>
-      <translation>Sessió</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
+        <source>Session</source>
+        <translation>Sessió</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
-      <source>Process</source>
-      <translation>Procés</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
+        <source>Process</source>
+        <translation>Procés</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="120"/>
-      <source>Processes (%1)</source>
-      <translation>Processos (%1)</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="120"/>
+        <source>Processes (%1)</source>
+        <translation>Processos (%1)</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Processes/processes_page.cpp" line="215"/>
-      <source>Refresh (%1)</source>
-      <translation>Refresca (%1)</translation>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="215"/>
+        <source>Refresh (%1)</source>
+        <translation>Refresca (%1)</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>QObject</name>
     <message>
-      <location filename="../stacer/Managers/setting_manager.cpp" line="61"/>
-      <source>Dashboard</source>
-      <translation>Panell de control</translation>
+        <location filename="../stacer/Managers/setting_manager.cpp" line="61"/>
+        <source>Dashboard</source>
+        <translation>Panell de control</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ResourcesPage</name>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="14"/>
-      <source>History of CPU</source>
-      <translation>Històric de la CPU</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="14"/>
+        <source>History of CPU</source>
+        <translation>Històric de la CPU</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="15"/>
-      <source>History of CPU Load Averages</source>
-      <translation>Històric de mitjanes de càrrega de la CPU</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="15"/>
+        <source>History of CPU Load Averages</source>
+        <translation>Històric de mitjanes de càrrega de la CPU</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="16"/>
-      <source>History of Disk Read Write</source>
-      <translation>Històric de lectura i escriptura del disc</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="16"/>
+        <source>History of Disk Read Write</source>
+        <translation>Històric de lectura i escriptura del disc</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="17"/>
-      <source>History of Memory</source>
-      <translation>Històric de la memòria</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="17"/>
+        <source>History of Memory</source>
+        <translation>Històric de la memòria</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="18"/>
-      <source>History of Network</source>
-      <translation>Històric de la xarxa</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="18"/>
+        <source>History of Network</source>
+        <translation>Històric de la xarxa</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="107"/>
-      <source>File System</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="107"/>
+        <source>File System</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="123"/>
-      <source>File System Type</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="123"/>
+        <source>File System Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="143"/>
-      <source>Device</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="143"/>
+        <source>Device</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="218"/>
-      <source>Read: %1/s Total: %2</source>
-      <translation>Lectura: %1/s Total: %2</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="218"/>
+        <source>Read: %1/s Total: %2</source>
+        <translation>Lectura: %1/s Total: %2</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="223"/>
-      <source>Write: %1/s Total: %2</source>
-      <translation>Escriptura: %1/s Total: %2</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="223"/>
+        <source>Write: %1/s Total: %2</source>
+        <translation>Escriptura: %1/s Total: %2</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="260"/>
-      <source>%1 Minute Average: %2</source>
-      <translation>%1 minut mitjana: %2</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="260"/>
+        <source>%1 Minute Average: %2</source>
+        <translation>%1 minut mitjana: %2</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="308"/>
-      <source>Download: %1/s Total: %2</source>
-      <translation>Baixada: %1/s Total: %2</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="308"/>
+        <source>Download: %1/s Total: %2</source>
+        <translation>Baixada: %1/s Total: %2</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="313"/>
-      <source>Upload: %1/s  Total: %2</source>
-      <translation>Pujada: %1/s  Total: %2</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="313"/>
+        <source>Upload: %1/s  Total: %2</source>
+        <translation>Pujada: %1/s  Total: %2</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="357"/>
-      <source>Swap: %1 (%2%) %3</source>
-      <translation>Intercanvi: %1 (%2%) %3</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="357"/>
+        <source>Swap: %1 (%2%) %3</source>
+        <translation>Intercanvi: %1 (%2%) %3</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.cpp" line="366"/>
-      <source>Memory: %1 (%2%) %3</source>
-      <translation>Memòria: %1 (%2%) %3</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.cpp" line="366"/>
+        <source>Memory: %1 (%2%) %3</source>
+        <translation>Memòria: %1 (%2%) %3</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Resources/resources_page.ui" line="14"/>
-      <source>Resources</source>
-      <translation>Recursos</translation>
+        <location filename="../stacer/Pages/Resources/resources_page.ui" line="14"/>
+        <source>Resources</source>
+        <translation>Recursos</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SearchPage</name>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="14"/>
-      <source>Search</source>
-      <translation>Cerca</translation>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="14"/>
+        <source>Search</source>
+        <translation>Cerca</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="101"/>
-      <source>Browse...</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="101"/>
+        <source>Browse...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="113"/>
-      <source>Search...</source>
-      <translation>Cerca...</translation>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="113"/>
+        <source>Search...</source>
+        <translation>Cerca...</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="211"/>
-      <source>Case Insensitive</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="211"/>
+        <source>Case Insensitive</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="298"/>
-      <source> minute</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="298"/>
+        <source> minute</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="370"/>
-      <source>Search as Root</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="370"/>
+        <source>Search as Root</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="377"/>
-      <source>Owner</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="377"/>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="406"/>
-      <source>RegEx</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="406"/>
+        <source>RegEx</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="483"/>
-      <source>Permissions</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="483"/>
+        <source>Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="490"/>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="27"/>
-      <source>Size</source>
-      <translation>Mida</translation>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="490"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="27"/>
+        <source>Size</source>
+        <translation>Mida</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="514"/>
-      <source>Readable</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="514"/>
+        <source>Readable</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="530"/>
-      <source>Writable</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="530"/>
+        <source>Writable</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="546"/>
-      <source>Executable</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="546"/>
+        <source>Executable</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="555"/>
-      <source>Time</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="555"/>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="584"/>
-      <source>Empty</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="584"/>
+        <source>Empty</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="591"/>
-      <source>File or Folder:</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="591"/>
+        <source>File or Folder:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="607"/>
-      <source>Invert</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="607"/>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="650"/>
-      <source>Advanced Search</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="650"/>
+        <source>Advanced Search</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.ui" line="690"/>
-      <source>BETA version</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="690"/>
+        <source>BETA version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="25"/>
-      <source>Name</source>
-      <translation>Nom</translation>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="25"/>
+        <source>Name</source>
+        <translation>Nom</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="26"/>
-      <source>Path</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="26"/>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="28"/>
-      <source>User</source>
-      <translation>Usuari</translation>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="28"/>
+        <source>User</source>
+        <translation>Usuari</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="29"/>
-      <source>Group</source>
-      <translation>Grup</translation>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="29"/>
+        <source>Group</source>
+        <translation>Grup</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="30"/>
-      <source>Creation Time</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="30"/>
+        <source>Creation Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="31"/>
-      <source>Last Access</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="31"/>
+        <source>Last Access</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="32"/>
-      <source>Last Modification</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="32"/>
+        <source>Last Modification</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="33"/>
-      <source>Last Change</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="33"/>
+        <source>Last Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="88"/>
-      <source>Open Folder</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="88"/>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="92"/>
-      <source>Move Trash</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="92"/>
+        <source>Move Trash</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="96"/>
-      <source>Delete</source>
-      <translation>Esborra</translation>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="96"/>
+        <source>Delete</source>
+        <translation>Esborra</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="129"/>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="132"/>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="140"/>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="149"/>
-      <source>Choose</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="129"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="132"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="140"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="149"/>
+        <source>Choose</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="135"/>
-      <source>All</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="135"/>
+        <source>All</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="136"/>
-      <source>File</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="136"/>
+        <source>File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="137"/>
-      <source>Directory</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="137"/>
+        <source>Directory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="138"/>
-      <source>Symbolic Link</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="138"/>
+        <source>Symbolic Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="141"/>
-      <source>Access</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="141"/>
+        <source>Access</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="142"/>
-      <source>Modify</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="142"/>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="143"/>
-      <source>Change</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="143"/>
+        <source>Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="145"/>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="150"/>
-      <source>Smaller (&lt;)</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="145"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="150"/>
+        <source>Smaller (&lt;)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="146"/>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="151"/>
-      <source>Equal (=)</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="146"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="151"/>
+        <source>Equal (=)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="147"/>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="152"/>
-      <source>Greater (&gt;)</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="147"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="152"/>
+        <source>Greater (&gt;)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="162"/>
-      <source>Select Directory</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="162"/>
+        <source>Select Directory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="168"/>
-      <source>Directory: %1</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="168"/>
+        <source>Directory: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="177"/>
-      <source>Advanced Search %1</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="177"/>
+        <source>Advanced Search %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="195"/>
-      <source>Select the search directory.</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="195"/>
+        <source>Select the search directory.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="293"/>
-      <source>Somethings went wrong, try again.</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="293"/>
+        <source>Somethings went wrong, try again.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Search/search_page.cpp" line="309"/>
-      <source>%1 files found. Showing %2 of them.</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="309"/>
+        <source>%1 files found. Showing %2 of them.</source>
+        <translation type="unfinished"></translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ServicesPage</name>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.ui" line="14"/>
-      <source>Services</source>
-      <translation>Serveis</translation>
+        <location filename="../stacer/Pages/Services/services_page.ui" line="14"/>
+        <source>Services</source>
+        <translation>Serveis</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.ui" line="161"/>
-      <source>Startup at boot ?</source>
-      <translation>Carrega a l&apos;inici?</translation>
+        <location filename="../stacer/Pages/Services/services_page.ui" line="161"/>
+        <source>Startup at boot ?</source>
+        <translation>Carrega a l&apos;inici?</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.ui" line="214"/>
-      <source>Running Now ?</source>
-      <translation>S&apos;està executant ara?</translation>
+        <location filename="../stacer/Pages/Services/services_page.ui" line="214"/>
+        <source>Running Now ?</source>
+        <translation>S&apos;està executant ara?</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.ui" line="268"/>
-      <source>Not Found System Service</source>
-      <translation>Servei del sistema no trobat</translation>
+        <location filename="../stacer/Pages/Services/services_page.ui" line="268"/>
+        <source>Not Found System Service</source>
+        <translation>Servei del sistema no trobat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.cpp" line="32"/>
-      <source>Running Status</source>
-      <translation>Estat d&apos;execució</translation>
+        <location filename="../stacer/Pages/Services/services_page.cpp" line="32"/>
+        <source>Running Status</source>
+        <translation>Estat d&apos;execució</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.cpp" line="32"/>
-      <source>Running</source>
-      <translation>S&apos;està executant</translation>
+        <location filename="../stacer/Pages/Services/services_page.cpp" line="32"/>
+        <source>Running</source>
+        <translation>S&apos;està executant</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.cpp" line="32"/>
-      <source>Not Running</source>
-      <translation>No s&apos;està executant</translation>
+        <location filename="../stacer/Pages/Services/services_page.cpp" line="32"/>
+        <source>Not Running</source>
+        <translation>No s&apos;està executant</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.cpp" line="33"/>
-      <source>Startup Status</source>
-      <translation>Estat d&apos;inici</translation>
+        <location filename="../stacer/Pages/Services/services_page.cpp" line="33"/>
+        <source>Startup Status</source>
+        <translation>Estat d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.cpp" line="33"/>
-      <source>Enabled</source>
-      <translation>Activat</translation>
+        <location filename="../stacer/Pages/Services/services_page.cpp" line="33"/>
+        <source>Enabled</source>
+        <translation>Activat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.cpp" line="33"/>
-      <source>Disabled</source>
-      <translation>Desactivat</translation>
+        <location filename="../stacer/Pages/Services/services_page.cpp" line="33"/>
+        <source>Disabled</source>
+        <translation>Desactivat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Services/services_page.cpp" line="80"/>
-      <source>System Services (%1)</source>
-      <translation>Serveis del sistema (%1)</translation>
+        <location filename="../stacer/Pages/Services/services_page.cpp" line="80"/>
+        <source>System Services (%1)</source>
+        <translation>Serveis del sistema (%1)</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SettingsPage</name>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="20"/>
-      <source>Settings</source>
-      <translation>Configuració</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="20"/>
+        <source>Settings</source>
+        <translation>Configuració</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="97"/>
-      <source>Theme</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="97"/>
+        <source>Theme</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="110"/>
-      <source>Memory Percent</source>
-      <translation>Percentatge de memòria</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="110"/>
+        <source>Memory Percent</source>
+        <translation>Percentatge de memòria</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="173"/>
-      <source>Disk Percent</source>
-      <translation>Percentatge del disc</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="173"/>
+        <source>Disk Percent</source>
+        <translation>Percentatge del disc</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="334"/>
-      <source>Font Size Adjustment</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="334"/>
+        <source>Font Size Adjustment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="365"/>
-      <source>Adjust font size relative to default (0 = default)</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="365"/>
+        <source>Adjust font size relative to default (0 = default)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="426"/>
-      <source>App Quit Don&apos;t Ask</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="426"/>
+        <source>App Quit Don&apos;t Ask</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="486"/>
-      <source>Disks</source>
-      <translation>Discs</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="486"/>
+        <source>Disks</source>
+        <translation>Discs</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="202"/>
-      <source>Language</source>
-      <translation>Idioma</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="202"/>
+        <source>Language</source>
+        <translation>Idioma</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="215"/>
-      <source>Autostart Stacer</source>
-      <translation>Inicia automàticament l&apos;Stacer</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="215"/>
+        <source>Autostart Stacer</source>
+        <translation>Inicia automàticament l&apos;Stacer</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="273"/>
-      <source>Alert messages (Show a warning after the specified percentage)</source>
-      <translation>Missatges d&apos;alerta (mostra un avís després del percentatge especificat)</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="273"/>
+        <source>Alert messages (Show a warning after the specified percentage)</source>
+        <translation>Missatges d&apos;alerta (mostra un avís després del percentatge especificat)</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="499"/>
-      <source>Start Page</source>
-      <translation>Pàgina d&apos;inici</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="499"/>
+        <source>Start Page</source>
+        <translation>Pàgina d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="257"/>
-      <source>CPU Percent</source>
-      <translation>Percentatge de CPU</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="257"/>
+        <source>CPU Percent</source>
+        <translation>Percentatge de CPU</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.ui" line="311"/>
-      <source>Donate</source>
-      <translation>Donació</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.ui" line="311"/>
+        <source>Donate</source>
+        <translation>Donació</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
-      <source>Dashboard</source>
-      <translation>Panell de control</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
+        <source>Dashboard</source>
+        <translation>Panell de control</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
-      <source>Startup Apps</source>
-      <translation>Aplicacions d&apos;inici</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
+        <source>Startup Apps</source>
+        <translation>Aplicacions d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
-      <source>System Cleaner</source>
-      <translation>Netejador del sistema</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
+        <source>System Cleaner</source>
+        <translation>Netejador del sistema</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
-      <source>Search</source>
-      <translation>Cerca</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
+        <source>Search</source>
+        <translation>Cerca</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="89"/>
-      <source>Services</source>
-      <translation>Serveis</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="84"/>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="89"/>
+        <source>Services</source>
+        <translation>Serveis</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="90"/>
-      <source>Processes</source>
-      <translation>Processos</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="90"/>
+        <source>Processes</source>
+        <translation>Processos</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="91"/>
-      <source>Uninstaller</source>
-      <translation>Desinstal·lador</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="91"/>
+        <source>Uninstaller</source>
+        <translation>Desinstal·lador</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
-      <source>Resources</source>
-      <translation>Recursos</translation>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
+        <source>Resources</source>
+        <translation>Recursos</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
-      <source>Helpers</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
+        <source>Helpers</source>
+        <translation type="unfinished"></translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>StartupApp</name>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app.ui" line="128"/>
-      <source>Edit App</source>
-      <translation>Edita l&apos;aplicació</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app.ui" line="128"/>
+        <source>Edit App</source>
+        <translation>Edita l&apos;aplicació</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app.ui" line="150"/>
-      <source>Delete App</source>
-      <translation>Suprimeix l&apos;aplicació</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app.ui" line="150"/>
+        <source>Delete App</source>
+        <translation>Suprimeix l&apos;aplicació</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>StartupAppEdit</name>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="20"/>
-      <source>Startup App</source>
-      <translation>Aplicació d&apos;inici</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="20"/>
+        <source>Startup App</source>
+        <translation>Aplicació d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="95"/>
-      <source>Save</source>
-      <translation>Desa</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="95"/>
+        <source>Save</source>
+        <translation>Desa</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="44"/>
-      <source>Fields cannot be left blank.</source>
-      <translation>Els camps no es poden deixar en blanc</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="44"/>
+        <source>Fields cannot be left blank.</source>
+        <translation>Els camps no es poden deixar en blanc</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="65"/>
-      <source>App Comment</source>
-      <translation>Comentari de l&apos;aplicació</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="65"/>
+        <source>App Comment</source>
+        <translation>Comentari de l&apos;aplicació</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="51"/>
-      <source>App Name</source>
-      <translation>Nom de l&apos;aplicació</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="51"/>
+        <source>App Name</source>
+        <translation>Nom de l&apos;aplicació</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="58"/>
-      <source>Generic Name</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="58"/>
+        <source>Generic Name</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="72"/>
-      <source>App Icon</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="72"/>
+        <source>App Icon</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="79"/>
-      <source>Command</source>
-      <translation>Ordre</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="79"/>
+        <source>Command</source>
+        <translation>Ordre</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="108"/>
-      <source>Application</source>
-      <translation>Aplicació</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="108"/>
+        <source>Application</source>
+        <translation>Aplicació</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>StartupAppsPage</name>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="201"/>
-      <source>Not Found Startup Apps</source>
-      <translation>No s&apos;han trobat aplicacions d&apos;inici</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="201"/>
+        <source>Not Found Startup Apps</source>
+        <translation>No s&apos;han trobat aplicacions d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="14"/>
-      <source>Startup Apps</source>
-      <translation>Aplicacions d&apos;inici</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="14"/>
+        <source>Startup Apps</source>
+        <translation>Aplicacions d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="101"/>
-      <source>Add Startup App</source>
-      <translation>Afegeix una aplicació d&apos;inici</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="101"/>
+        <source>Add Startup App</source>
+        <translation>Afegeix una aplicació d&apos;inici</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="67"/>
-      <source>Startup Apps are disabled.</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="67"/>
+        <source>Startup Apps are disabled.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="127"/>
-      <source>Startup Applications (%1)</source>
-      <translation>Aplicacions d&apos;inici (%1)</translation>
+        <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="127"/>
+        <source>Startup Applications (%1)</source>
+        <translation>Aplicacions d&apos;inici (%1)</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SystemCleanerPage</name>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="14"/>
-      <source>System Cleaner</source>
-      <translation>Netejador del sistema</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="14"/>
+        <source>System Cleaner</source>
+        <translation>Netejador del sistema</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="66"/>
-      <source>Crash Reports</source>
-      <translation>Informes de fallida</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="66"/>
+        <source>Crash Reports</source>
+        <translation>Informes de fallida</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="180"/>
-      <source>Application Logs</source>
-      <translation>Registres d&apos;aplicacions</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="180"/>
+        <source>Application Logs</source>
+        <translation>Registres d&apos;aplicacions</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="218"/>
-      <source>Application Caches</source>
-      <translation>Memòria cau d&apos;aplicacions</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="218"/>
+        <source>Application Caches</source>
+        <translation>Memòria cau d&apos;aplicacions</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="366"/>
-      <source>Trash</source>
-      <translation>Paperera</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="366"/>
+        <source>Trash</source>
+        <translation>Paperera</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="404"/>
-      <source>Package Caches</source>
-      <translation>Memòria cau dels paquets</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="404"/>
+        <source>Package Caches</source>
+        <translation>Memòria cau dels paquets</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="493"/>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="638"/>
-      <source>Select all</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="493"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="638"/>
+        <source>Select all</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="651"/>
-      <source> Back</source>
-      <translation>Enrere</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="651"/>
+        <source> Back</source>
+        <translation>Enrere</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="759"/>
-      <source>Sort by: </source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="759"/>
+        <source>Sort by: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="773"/>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="782"/>
-      <source>Name</source>
-      <translation>Nom</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="773"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="782"/>
+        <source>Name</source>
+        <translation>Nom</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="35"/>
-      <source>File Name</source>
-      <translation>Nom del fitxer</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="35"/>
+        <source>File Name</source>
+        <translation>Nom del fitxer</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="182"/>
-      <source>Total size: %1</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="182"/>
+        <source>Total size: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="791"/>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="800"/>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="35"/>
-      <source>Size</source>
-      <translation>Mida</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="791"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="800"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="35"/>
+        <source>Size</source>
+        <translation>Mida</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="295"/>
-      <source>%1 size files cleaned.</source>
-      <translation>S&apos;ha netejat fitxers de mida %1</translation>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="295"/>
+        <source>%1 size files cleaned.</source>
+        <translation>S&apos;ha netejat fitxers de mida %1</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>UninstallerPage</name>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="14"/>
-      <source>Uninstaller</source>
-      <translation>Desinstal·lador</translation>
+        <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="14"/>
+        <source>Uninstaller</source>
+        <translation>Desinstal·lador</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="371"/>
-      <source>System Packages</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="371"/>
+        <source>System Packages</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="393"/>
-      <source>Snap Packages</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="393"/>
+        <source>Snap Packages</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="442"/>
-      <source>Search...</source>
-      <translation>Cerca...</translation>
+        <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="442"/>
+        <source>Search...</source>
+        <translation>Cerca...</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="108"/>
-      <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="231"/>
-      <source>Not Found Installed Packages</source>
-      <translation>No s&apos;han trobat paquets instal·lats</translation>
+        <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="108"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="231"/>
+        <source>Not Found Installed Packages</source>
+        <translation>No s&apos;han trobat paquets instal·lats</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="340"/>
-      <source>Uninstall Selected</source>
-      <translation>Desinstal·la els seleccionats</translation>
+        <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="340"/>
+        <source>Uninstall Selected</source>
+        <translation>Desinstal·la els seleccionats</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="102"/>
-      <source>Packages (%1)</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="102"/>
+        <source>Packages (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="107"/>
-      <source>Snap Packages (%1)</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="107"/>
+        <source>Snap Packages (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="208"/>
-      <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="215"/>
-      <source>Uninstall Selected (%1)</source>
-      <translation type="unfinished"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="208"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="215"/>
+        <source>Uninstall Selected (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>UnitySettings</name>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="65"/>
-      <source>Applications</source>
-      <translation>Aplicacions</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="65"/>
+        <source>Applications</source>
+        <translation>Aplicacions</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="108"/>
-      <source>Show &quot;Recently Used&quot; applications</source>
-      <translation>Mostra les aplicacions «usades recentment»</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="108"/>
+        <source>Show &quot;Recently Used&quot; applications</source>
+        <translation>Mostra les aplicacions «usades recentment»</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="134"/>
-      <source>Enable search of your files</source>
-      <translation>Activa la cerca dels vostres fitxers</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="134"/>
+        <source>Enable search of your files</source>
+        <translation>Activa la cerca dels vostres fitxers</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="160"/>
-      <source>Show &quot;More Suggestions&quot;</source>
-      <translation>Mostra «més suggeriments»</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="160"/>
+        <source>Show &quot;More Suggestions&quot;</source>
+        <translation>Mostra «més suggeriments»</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="186"/>
-      <source>Search</source>
-      <translation>Cerca</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="186"/>
+        <source>Search</source>
+        <translation>Cerca</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="196"/>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="683"/>
-      <source>General</source>
-      <translation>General</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="196"/>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="683"/>
+        <source>General</source>
+        <translation>General</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="229"/>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="660"/>
-      <source>Transparency Level</source>
-      <translation>Nivell de transparència</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="229"/>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="660"/>
+        <source>Transparency Level</source>
+        <translation>Nivell de transparència</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="280"/>
-      <source>Behaviour</source>
-      <translation>Comportament</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="280"/>
+        <source>Behaviour</source>
+        <translation>Comportament</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="323"/>
-      <source>Auto Hide</source>
-      <translation>Amaga automàticament</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="323"/>
+        <source>Auto Hide</source>
+        <translation>Amaga automàticament</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="339"/>
-      <source>Left Side</source>
-      <translation>Costat esquerre</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="339"/>
+        <source>Left Side</source>
+        <translation>Costat esquerre</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="380"/>
-      <source>Minimize applications with clicking</source>
-      <translation>Minimitza les aplicacions fent clic</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="380"/>
+        <source>Minimize applications with clicking</source>
+        <translation>Minimitza les aplicacions fent clic</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="396"/>
-      <source>Top-Left Corner</source>
-      <translation>Vora superior esquerra</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="396"/>
+        <source>Top-Left Corner</source>
+        <translation>Vora superior esquerra</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="412"/>
-      <source>Reveal Sensitivity</source>
-      <translation>Revela la sensibilitat</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="412"/>
+        <source>Reveal Sensitivity</source>
+        <translation>Revela la sensibilitat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="438"/>
-      <source>Reveal Location</source>
-      <translation>Revela la ubicació</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="438"/>
+        <source>Reveal Location</source>
+        <translation>Revela la ubicació</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="464"/>
-      <source>Launcher</source>
-      <translation>Llançador</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="464"/>
+        <source>Launcher</source>
+        <translation>Llançador</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="474"/>
-      <source>Appearance</source>
-      <translation>Aparença</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="474"/>
+        <source>Appearance</source>
+        <translation>Aparença</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="507"/>
-      <source>Left</source>
-      <translation>Esquerra</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="507"/>
+        <source>Left</source>
+        <translation>Esquerra</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="526"/>
-      <source>Bottom</source>
-      <translation>Inferior</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="526"/>
+        <source>Bottom</source>
+        <translation>Inferior</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="542"/>
-      <source>Visibility</source>
-      <translation>Visibilitat
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="542"/>
+        <source>Visibility</source>
+        <translation>Visibilitat
 Visibilitat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="558"/>
-      <source>Primary Desktop</source>
-      <translation>Escriptori primari</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="558"/>
+        <source>Primary Desktop</source>
+        <translation>Escriptori primari</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="612"/>
-      <source>Icon size</source>
-      <translation>Mida de la icona</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="612"/>
+        <source>Icon size</source>
+        <translation>Mida de la icona</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="628"/>
-      <source>All Desktops</source>
-      <translation>Tots els escriptoris</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="628"/>
+        <source>All Desktops</source>
+        <translation>Tots els escriptoris</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="644"/>
-      <source>Position</source>
-      <translation>Posició</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="644"/>
+        <source>Position</source>
+        <translation>Posició</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="726"/>
-      <source>Search online sources</source>
-      <translation>Cerca orígens en línia</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="726"/>
+        <source>Search online sources</source>
+        <translation>Cerca orígens en línia</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="752"/>
-      <source>Background Blur</source>
-      <translation>Fons borrós</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="752"/>
+        <source>Background Blur</source>
+        <translation>Fons borrós</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="778"/>
-      <source>Panel</source>
-      <translation>Panell</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="778"/>
+        <source>Panel</source>
+        <translation>Panell</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="801"/>
-      <source>Indicators</source>
-      <translation>Indicadors</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="801"/>
+        <source>Indicators</source>
+        <translation>Indicadors</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="840"/>
-      <source>Date</source>
-      <translation>Data</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="840"/>
+        <source>Date</source>
+        <translation>Data</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="862"/>
-      <source>Calendar</source>
-      <translation>Calendari</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="862"/>
+        <source>Calendar</source>
+        <translation>Calendari</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="875"/>
-      <source>Date &amp; Time</source>
-      <translation>Data i hora</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="875"/>
+        <source>Date &amp; Time</source>
+        <translation>Data i hora</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="888"/>
-      <source>24-Hour Time</source>
-      <translation>24 hores</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="888"/>
+        <source>24-Hour Time</source>
+        <translation>24 hores</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="910"/>
-      <source>Weekday</source>
-      <translation>Dia de la setmana</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="910"/>
+        <source>Weekday</source>
+        <translation>Dia de la setmana</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="923"/>
-      <source>Include</source>
-      <translation>Inclou</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="923"/>
+        <source>Include</source>
+        <translation>Inclou</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="945"/>
-      <source>Seconds</source>
-      <translation>Segons</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="945"/>
+        <source>Seconds</source>
+        <translation>Segons</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="958"/>
-      <source>Volume</source>
-      <translation>Volum</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="958"/>
+        <source>Volume</source>
+        <translation>Volum</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="971"/>
-      <source>Show my name</source>
-      <translation>Mostra el meu nom</translation>
+        <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="971"/>
+        <source>Show my name</source>
+        <translation>Mostra el meu nom</translation>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>WindowManagerSettings</name>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="90"/>
-      <source>General</source>
-      <translation>General</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="90"/>
+        <source>General</source>
+        <translation>General</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="100"/>
-      <source>Titlebar Actions</source>
-      <translation>Accions de la barra de títol</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="100"/>
+        <source>Titlebar Actions</source>
+        <translation>Accions de la barra de títol</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="155"/>
-      <source>Right click</source>
-      <translation>Clic dret</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="155"/>
+        <source>Right click</source>
+        <translation>Clic dret</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="168"/>
-      <source>Double click</source>
-      <translation>Doble clic</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="168"/>
+        <source>Double click</source>
+        <translation>Doble clic</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="181"/>
-      <source>Middle click</source>
-      <translation>Clic mig</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="181"/>
+        <source>Middle click</source>
+        <translation>Clic mig</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="257"/>
-      <source>Additional</source>
-      <translation>Addicional</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="257"/>
+        <source>Additional</source>
+        <translation>Addicional</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="267"/>
-      <source>Workspace Settings</source>
-      <translation>Configuració de l&apos;espai de treball</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="267"/>
+        <source>Workspace Settings</source>
+        <translation>Configuració de l&apos;espai de treball</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="310"/>
-      <source>Vertical workspaces</source>
-      <translation>Espais de treball verticals</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="310"/>
+        <source>Vertical workspaces</source>
+        <translation>Espais de treball verticals</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="333"/>
-      <source>Workspace switcher</source>
-      <translation>Commutador d&apos;espais de treball</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="333"/>
+        <source>Workspace switcher</source>
+        <translation>Commutador d&apos;espais de treball</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="356"/>
-      <source>Horizontal workspaces</source>
-      <translation>Espais de treball horitzontals</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="356"/>
+        <source>Horizontal workspaces</source>
+        <translation>Espais de treball horitzontals</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="379"/>
-      <source>Focus Behaviour</source>
-      <translation>Comportament de l&apos;enfocament</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="379"/>
+        <source>Focus Behaviour</source>
+        <translation>Comportament de l&apos;enfocament</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="409"/>
-      <source>Focus mode</source>
-      <translation>Mode d&apos;enfocament</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="409"/>
+        <source>Focus mode</source>
+        <translation>Mode d&apos;enfocament</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="460"/>
-      <source>Raise on click</source>
-      <translation>Augmenta en fer clic</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="460"/>
+        <source>Raise on click</source>
+        <translation>Augmenta en fer clic</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="483"/>
-      <source>Hardware Acceleration</source>
-      <translation>Acceleració del maquinari</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="483"/>
+        <source>Hardware Acceleration</source>
+        <translation>Acceleració del maquinari</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="538"/>
-      <source>Text quality</source>
-      <translation>Qualitat del text</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="538"/>
+        <source>Text quality</source>
+        <translation>Qualitat del text</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="64"/>
-      <source>Fast</source>
-      <translation>Ràpid</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="64"/>
+        <source>Fast</source>
+        <translation>Ràpid</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="64"/>
-      <source>Good</source>
-      <translation>Bo</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="64"/>
+        <source>Good</source>
+        <translation>Bo</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="64"/>
-      <source>Best</source>
-      <translation>El millor</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="64"/>
+        <source>Best</source>
+        <translation>El millor</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
-      <source>Click</source>
-      <translation>Clic</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
+        <source>Click</source>
+        <translation>Clic</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
-      <source>Sloppy</source>
-      <translation>Descuidat</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
+        <source>Sloppy</source>
+        <translation>Descuidat</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
-      <source>Mouse</source>
-      <translation>Ratolí</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
+        <source>Mouse</source>
+        <translation>Ratolí</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
-      <source>Toggle Shade</source>
-      <translation>Commuta l&apos;ombra</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
+        <source>Toggle Shade</source>
+        <translation>Commuta l&apos;ombra</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
-      <source>Maximize</source>
-      <translation>Maximitza</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
+        <source>Maximize</source>
+        <translation>Maximitza</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
-      <source>Maximize Horizontally</source>
-      <translation>Maximitza horitzontalment</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
+        <source>Maximize Horizontally</source>
+        <translation>Maximitza horitzontalment</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
-      <source>Maximize Vertically</source>
-      <translation>Maximitza verticalment</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
+        <source>Maximize Vertically</source>
+        <translation>Maximitza verticalment</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
-      <source>Minimize</source>
-      <translation>Minimitza</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
+        <source>Minimize</source>
+        <translation>Minimitza</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
-      <source>None</source>
-      <translation>Cap</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
+        <source>None</source>
+        <translation>Cap</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
-      <source>Lower</source>
-      <translation>Inferior</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
+        <source>Lower</source>
+        <translation>Inferior</translation>
     </message>
     <message>
-      <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
-      <source>Menu</source>
-      <translation>Menú</translation>
+        <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="78"/>
+        <source>Menu</source>
+        <translation>Menú</translation>
     </message>
-  </context>
+</context>
 </TS>
