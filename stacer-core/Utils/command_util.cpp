@@ -45,7 +45,7 @@ QString CommandUtil::exec(const QString &cmd, QStringList args, QByteArray data,
         throw err;
 
     if (checkExitCode && process->exitCode() != 0)
-        qCritical() << "Command exited with code" << process->exitCode();
+        throw QString("Command exited with code %1").arg(process->exitCode());
 
     return stdOut.readAll().trimmed();
 }

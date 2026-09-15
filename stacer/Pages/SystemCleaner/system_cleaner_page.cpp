@@ -281,6 +281,7 @@ void SystemCleanerPage::systemClean()
                 if (it->checkState(0) == Qt::Checked) {
                     QString trashPath = QStandardPaths::writableLocation(QStandardPaths::HomeLocation).append("/.local/share/Trash");
 
+                    QDir(trashPath + "/expunged").removeRecursively();
                     QDir(trashPath + "/files").removeRecursively();
                     QDir(trashPath + "/info").removeRecursively();
                 }
@@ -316,6 +317,8 @@ void SystemCleanerPage::systemClean()
         for (int i = 0; i < tree->topLevelItemCount(); ++i) {
             QTreeWidgetItem *it = tree->topLevelItem(i);
 
+            it->setCheckState(0, Qt::Unchecked);
+
             it->setText(0, QString("%1 (%2)")
                                .arg(it->data(2, 1).toString())
                                .arg(it->childCount()));
@@ -345,11 +348,7 @@ void SystemCleanerPage::on_btnScan_clicked()
 
 void SystemCleanerPage::on_btnClean_clicked()
 {
-#if QT_VERSION >= QT_VERSION_CHECK(6, 0, 0)
-    QFuture<void> future = QtConcurrent::run(&SystemCleanerPage::systemClean, this);
-#else
-    QFuture<void> future = QtConcurrent::run(this, &SystemCleanerPage::systemClean);
-#endif
+    systemClean();
 }
 
 void SystemCleanerPage::on_btnBackToCategories_clicked()
@@ -364,6 +363,7 @@ void SystemCleanerPage::on_btnBackToCategories_clicked()
     ui->checkTrash->setEnabled(true);
     ui->treeWidgetScanResult->clear();
     ui->stackedWidget->setCurrentIndex(0);
+    ui->checkSelectAll->setChecked(false);
     ui->checkSelectAllSystemScan->setEnabled(true);
     ui->checkSelectAllSystemScan->setChecked(false);
 }
