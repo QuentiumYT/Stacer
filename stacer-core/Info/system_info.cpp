@@ -149,7 +149,10 @@ QFileInfoList SystemInfo::getAppCaches() const
     QString homePath = QStandardPaths::writableLocation(QStandardPaths::HomeLocation);
 
     // Main cache location (only files and folders)
-    QFileInfoList mainCache = QDir(homePath + "/.cache").entryInfoList(QDir::Files | QDir::Dirs | QDir::NoDotAndDotDot);
+    QList cacheExclusions = {
+        homePath + "/.cache/p10k"
+    };
+    QFileInfoList cacheFiles = QDir(homePath + "/.cache").entryInfoList(QDir::Files | QDir::Dirs | QDir::NoDotAndDotDot);
 
     // Common cache locations
     QList cacheLocations = {
@@ -186,13 +189,20 @@ QFileInfoList SystemInfo::getAppCaches() const
         }
     }
 
-    QFileInfoList allCaches = mainCache;
     for (const QString &location : cacheLocations) {
         if (QDir(location).exists()) {
-            // allCaches.append(QDir(location).entryInfoList(QDir::Files | QDir::Dirs | QDir::NoDotAndDotDot));
-            allCaches.append(QFileInfo(location));
+            // cacheFiles.append(QDir(location).entryInfoList(QDir::Files | QDir::Dirs | QDir::NoDotAndDotDot));
+            cacheFiles.append(QFileInfo(location));
         }
     }
 
-    return allCaches;
+    for (const QString &exclusion : cacheExclusions) {
+        for (int i = cacheFiles.size() - 1; i >= 0; --i) {
+            if (cacheFiles[i].absoluteFilePath().contains(exclusion)) {
+                cacheFiles.removeAt(i);
+            }
+        }
+    }
+
+    return cacheFiles;
 }
