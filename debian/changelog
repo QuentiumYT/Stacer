@@ -1,3 +1,27 @@
+stacer (1.8.0-1) stable; urgency=medium
+
+  * Reintroduce light theme behaviour
+  * Reorganize assets & fix light theme
+  * Replace old GIF with newer animated SVG #45
+  * Optimize assets with pngquant #50
+  * Set expanding size policy for startup/running status comboboxes (Thanks @adem4ik) #44
+  * Rework scrollbar styling to replace black background in Light/Default Themes (Thanks @adem4ik) #47
+  * Fix combobox dropdown text color for Light and Default themes (Thanks @adem4ik) #48
+  * Add %CPU string for translation (Thanks @adem4ik) #49
+  * Better cleaner states + fix crash on clean #51
+  * Add cache exclusions for system cleaner (need more exclusions probably)
+  * Fix cache memory info not correct
+  * Add Nix flake packaging (Thanks @Bigtruck2) #52
+  * Regenerate missing translations & complete FR, DE & RU
+  * Use libgl-dev instead of dummy libgl1-mesa-dev
+  * Bump GitHub actions & switch back to yuezk publish ppa
+  * Fix timestamp generation with UTC for packaging
+  * Use new qt6 prefixed libraries (some libqt6 are deprecated)
+  * Fix fedora package name for COPR
+  * Switch to free font Rubik #38
+
+ -- Quentin Lienhardt <pro@quentium.fr>  Thu, 17 Sep 2026 15:00:00 +0100
+
 stacer (1.7.0-1) stable; urgency=medium
 
   * Improve System cleaner exit code check + reset UI states when finished #37

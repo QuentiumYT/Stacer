@@ -1,5 +1,5 @@
 Name:           stacer
-Version:        1.7.0
+Version:        1.8.0
 Release:        1%{?dist}
 Summary:        Linux system optimizer and monitoring
 
@@ -103,5 +103,5 @@ desktop-file-validate %{buildroot}%{_datadir}/applications/*.desktop
 %{_datadir}/%{name}/translations/stacer_zh-tw.qm
 
 %changelog
-* Mon Apr 13 2026 Quentin Lienhardt <pro@quentium.fr> - 1.7.0-1
+* Thu Sep 17 2026 Quentin Lienhardt <pro@quentium.fr> - 1.8.0-1
 - Initial package republish

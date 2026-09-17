@@ -20,7 +20,7 @@
         in {
           default = pkgs.stdenv.mkDerivation {
             pname = "stacer";
-            version = "1.7.0";
+            version = "1.8.0";
 
             src = ./.;
 

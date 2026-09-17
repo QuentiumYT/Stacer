@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(Stacer VERSION 1.7.0 LANGUAGES CXX)
+project(Stacer VERSION 1.8.0 LANGUAGES CXX)
 
 # Build with PIC and PIE (default: ON)
 option(CMAKE_POSITION_INDEPENDENT_CODE "Determines whether position independent executables or shared libraries will be created" ON)
