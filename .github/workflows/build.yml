@@ -11,23 +11,33 @@ jobs:
     name: Build All
     strategy:
       matrix:
-        os: [ubuntu-24.04, ubuntu-24.04-arm, ubuntu-22.04, ubuntu-22.04-arm]
+        os:
+          [
+            ubuntu-26.04,
+            ubuntu-26.04-arm,
+            ubuntu-24.04,
+            ubuntu-24.04-arm,
+            ubuntu-22.04,
+            ubuntu-22.04-arm,
+          ]
         include:
+          - os: ubuntu-26.04
+            codename: resolute
+            # qt_arch: gcc_64
+          - os: ubuntu-26.04-arm
+            codename: resolute-arm
+            # qt_arch: linux_gcc_arm64
           - os: ubuntu-24.04
             codename: noble
-            # qt_version: 6.8
             # qt_arch: gcc_64
           - os: ubuntu-24.04-arm
             codename: noble-arm
-            # qt_version: 6.8
             # qt_arch: linux_gcc_arm64
           - os: ubuntu-22.04
             codename: jammy
-            # qt_version: 6.8
             # qt_arch: gcc_64
           - os: ubuntu-22.04-arm
             codename: jammy-arm
-            # qt_version: 6.8
             # qt_arch: linux_gcc_arm64
     runs-on: ${{ matrix.os }}
     steps:
@@ -40,8 +50,7 @@ jobs:
       # - name: Install Qt
       #   uses: jurplel/install-qt-action@v4
       #   with:
-      #     version: ${{ matrix.qt_version }}
-      #     target: desktop
+      #     version: >=6.11
       #     arch: ${{ matrix.qt_arch }}
       #     modules: qtcharts
 
@@ -78,15 +87,15 @@ jobs:
     name: Build Flatpak
     strategy:
       matrix:
-        os: [ubuntu-24.04, ubuntu-24.04-arm]
+        os: [ubuntu-26.04, ubuntu-26.04-arm]
         include:
-          - os: ubuntu-24.04
+          - os: ubuntu-26.04
             arch: x86_64
-          - os: ubuntu-24.04-arm
+          - os: ubuntu-26.04-arm
             arch: aarch64
     runs-on: ${{ matrix.os }}
     container:
-      image: ghcr.io/flathub-infra/flatpak-github-actions:gnome-48
+      image: ghcr.io/flathub-infra/flatpak-github-actions:gnome-49
       options: --privileged
     steps:
       - name: Checkout

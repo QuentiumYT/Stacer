@@ -3,6 +3,9 @@
 rm -rf build
 rm -rf release
 rm -f translations/*.qm
+rm -rf .flatpak-builder
+rm -rf repo
+rm -rf *.flatpak
 
 rm -rf rpm/BUILD/
 rm -rf rpm/BUILDROOT/
