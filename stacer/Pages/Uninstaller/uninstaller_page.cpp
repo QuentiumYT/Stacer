@@ -6,7 +6,13 @@
 
 UninstallerPage::~UninstallerPage()
 {
+    cancelLoading();
     delete ui;
+}
+
+void UninstallerPage::cancelLoading()
+{
+    packagesAbort.store(true);
 }
 
 UninstallerPage::UninstallerPage(QWidget *parent) :
@@ -58,6 +64,9 @@ void UninstallerPage::loadPackages()
     QIcon icon(":/static/themes/common/img/package.png");
     QStringList packages = tm->getPackages();
     for (const QString &package : packages) {
+        if (packagesAbort.load())
+            return;
+
         QListWidgetItem *item = new QListWidgetItem(QIcon::fromTheme(package, icon), QString("  %1").arg(package));
 
         item->setCheckState(Qt::Unchecked);
@@ -81,6 +90,9 @@ void UninstallerPage::loadSnapPackages()
     QIcon icon(":/static/themes/common/img/package.png");
     QStringList packages = tm->getSnapPackages();
     for (const QString &package : packages) {
+        if (packagesAbort.load())
+            return;
+
         QListWidgetItem *item = new QListWidgetItem(QIcon::fromTheme(package, icon), QString("  %1").arg(package));
 
         item->setCheckState(Qt::Unchecked);

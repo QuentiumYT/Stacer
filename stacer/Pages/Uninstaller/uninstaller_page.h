@@ -4,6 +4,7 @@
 #include <QListWidgetItem>
 #include <QWidget>
 #include <QtConcurrent>
+#include <atomic>
 
 #include "Managers/app_manager.h"
 #include "Managers/tool_manager.h"
@@ -20,6 +21,7 @@ class UninstallerPage : public QWidget
   public:
     explicit UninstallerPage(QWidget *parent = 0);
     ~UninstallerPage();
+    void cancelLoading();
 
   public slots:
     void uninstallStarted();
@@ -45,6 +47,7 @@ class UninstallerPage : public QWidget
     Ui::UninstallerPage *ui;
 
     ToolManager *tm;
+    std::atomic_bool packagesAbort { false };
 };
 
 #endif // UNINSTALLERPAGE_H

@@ -135,6 +135,7 @@ void App::closeEvent(QCloseEvent *event)
         QString quitChoice = SettingManager::ins()->getAppQuitDialogChoice();
 
         if (quitChoice == "close") {
+            uninstallerPage->cancelLoading();
             QThreadPool::globalInstance()->waitForDone();
             QApplication::quit();
         } else if (quitChoice == "hide") {
@@ -150,6 +151,7 @@ void App::closeEvent(QCloseEvent *event)
         } else if (mQuitMsgBox->clickedButton() == mBtnQuit) {
             SettingManager::ins()->setAppQuitDialogChoice("close");
             event->accept();
+            uninstallerPage->cancelLoading();
             QThreadPool::globalInstance()->waitForDone();
             QApplication::quit();
         } else {
