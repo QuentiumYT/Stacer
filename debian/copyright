@@ -3,6 +3,10 @@ Upstream-Name: stacer
 Upstream-Contact: Quentin Lienhardt <pro@quentium.fr>
 Source: https://github.com/QuentiumYT/Stacer
 
+Files: debian/*
+Copyright: 2022 Quentin Lienhardt <pro@quentium.fr>
+License: GPL-3.0
+
 Files: *
 Copyright: 2017-2019 Oguzhan INAN <oguzhan3488@gmail.com>
 License: GPL-3.0
