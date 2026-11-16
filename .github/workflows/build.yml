@@ -95,7 +95,7 @@ jobs:
             arch: aarch64
     runs-on: ${{ matrix.os }}
     container:
-      image: ghcr.io/flathub-infra/flatpak-github-actions:gnome-49
+      image: ghcr.io/flathub-infra/flatpak-github-actions:gnome-50
       options: --privileged
     steps:
       - name: Checkout
