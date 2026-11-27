@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
+        with:
+          ref: l10n_main
 
       - name: Update package repositories
         run: sudo apt-get update
@@ -33,3 +35,4 @@ jobs:
           message: "Format with lupdate"
           add: "translations/*.ts"
           default_author: github_actions
+          pull: true
