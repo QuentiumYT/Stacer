@@ -46,7 +46,7 @@
     <message>
       <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="133"/>
       <source>Suites</source>
-      <translation type="unfinished"/>
+      <translation>Suites</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="152"/>
@@ -214,17 +214,17 @@
     <message>
       <location filename="../stacer/app.cpp" line="116"/>
       <source>Continue</source>
-      <translation type="unfinished"/>
+      <translation>Continuar</translation>
     </message>
     <message>
       <location filename="../stacer/app.cpp" line="119"/>
       <source>Don&apos;t ask again.</source>
-      <translation type="unfinished"/>
+      <translation>No&apos;vuelva a preguntar</translation>
     </message>
     <message>
       <location filename="../stacer/app.cpp" line="122"/>
       <source>Will the program continue to work in the system tray?</source>
-      <translation type="unfinished"/>
+      <translation>¿Seguirá funcionando el programa en la bandeja del sistema?</translation>
     </message>
   </context>
   <context>
@@ -546,12 +546,12 @@
     <message>
       <location filename="../stacer/Pages/Helpers/helpers_page.ui" line="14"/>
       <source>Helpers</source>
-      <translation type="unfinished"/>
+      <translation>Ayudantes</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Helpers/helpers_page.ui" line="62"/>
       <source>Host Manage</source>
-      <translation type="unfinished"/>
+      <translation>Gestor de hosts</translation>
     </message>
   </context>
   <context>
@@ -559,7 +559,7 @@
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished"/>
+      <translation>Formulario</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.ui" line="63"/>
@@ -569,7 +569,7 @@
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.ui" line="110"/>
       <source>New Host</source>
-      <translation type="unfinished"/>
+      <translation>Host nuevo</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.ui" line="146"/>
@@ -579,7 +579,7 @@
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.ui" line="153"/>
       <source>Fully Qualified Name *</source>
-      <translation type="unfinished"/>
+      <translation>Nombre Completamente Calificado *</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.ui" line="160"/>
@@ -601,17 +601,17 @@
       <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="26"/>
       <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="100"/>
       <source>Hosts (%1)</source>
-      <translation type="unfinished"/>
+      <translation>Equipos (%1)</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
       <source>IP Address</source>
-      <translation type="unfinished"/>
+      <translation>Dirección IP</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
       <source>Full Qualified</source>
-      <translation type="unfinished"/>
+      <translation>Calificado completo</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="137"/>
@@ -626,7 +626,7 @@
     <message>
       <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="149"/>
       <source>The IP and Fully Qualified fields are required.</source>
-      <translation type="unfinished"/>
+      <translation>Los campos IP y Completamente Calificados son obligatorios.</translation>
     </message>
   </context>
   <context>
@@ -761,13 +761,12 @@
     <message>
       <location filename="../stacer/Pages/Resources/resources_page.cpp" line="123"/>
       <source>File System Type</source>
-      <translation type="unfinished"/>
+      <translation>Tipo de sistema de archivos</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Resources/resources_page.cpp" line="143"/>
       <source>Device</source>
-      <translation>Dispositivo
-</translation>
+      <translation>Dispositivo</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Resources/resources_page.cpp" line="218"/>
@@ -830,18 +829,17 @@
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="211"/>
       <source>Case Insensitive</source>
-      <translation type="unfinished"/>
+      <translation>No distinguir mayúsculas/minúsculas</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="298"/>
       <source> minute</source>
-      <translation type="unfinished"/>
+      <translation> minuto</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="370"/>
       <source>Search as Root</source>
-      <translation>Buscar como Root
-</translation>
+      <translation>Buscar como root</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="377"/>
@@ -851,12 +849,12 @@
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="406"/>
       <source>RegEx</source>
-      <translation type="unfinished"/>
+      <translation>Expresión regular</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="483"/>
       <source>Permissions</source>
-      <translation type="unfinished"/>
+      <translation>Permisos</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="490"/>
@@ -867,47 +865,47 @@
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="514"/>
       <source>Readable</source>
-      <translation type="unfinished"/>
+      <translation>Accesible en lectura</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="530"/>
       <source>Writable</source>
-      <translation type="unfinished"/>
+      <translation>Escritura permitida</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="546"/>
       <source>Executable</source>
-      <translation type="unfinished"/>
+      <translation>Ejecutables</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="555"/>
       <source>Time</source>
-      <translation type="unfinished"/>
+      <translation>Hora</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="584"/>
       <source>Empty</source>
-      <translation type="unfinished"/>
+      <translation>Vacío</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="591"/>
       <source>File or Folder:</source>
-      <translation type="unfinished"/>
+      <translation>Archivo o carpeta:</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="607"/>
       <source>Invert</source>
-      <translation type="unfinished"/>
+      <translation>Invertir</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="650"/>
       <source>Advanced Search</source>
-      <translation type="unfinished"/>
+      <translation>Bsqueda avanzada.</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.ui" line="690"/>
       <source>BETA version</source>
-      <translation type="unfinished"/>
+      <translation>Versión BETA</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="25"/>
@@ -917,7 +915,7 @@
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="26"/>
       <source>Path</source>
-      <translation type="unfinished"/>
+      <translation>Ruta</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="28"/>
@@ -932,32 +930,32 @@
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="30"/>
       <source>Creation Time</source>
-      <translation type="unfinished"/>
+      <translation>Fecha de creación</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="31"/>
       <source>Last Access</source>
-      <translation type="unfinished"/>
+      <translation>Último acceso</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="32"/>
       <source>Last Modification</source>
-      <translation type="unfinished"/>
+      <translation>Última modificación</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="33"/>
       <source>Last Change</source>
-      <translation type="unfinished"/>
+      <translation>Último Cambio</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="88"/>
       <source>Open Folder</source>
-      <translation type="unfinished"/>
+      <translation>Abrir carpeta</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="92"/>
       <source>Move Trash</source>
-      <translation type="unfinished"/>
+      <translation>Mover Papelera</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="96"/>
@@ -970,90 +968,91 @@
       <location filename="../stacer/Pages/Search/search_page.cpp" line="140"/>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="149"/>
       <source>Choose</source>
-      <translation type="unfinished"/>
+      <translation>Escoger</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="135"/>
       <source>All</source>
-      <translation type="unfinished"/>
+      <translation>Todo</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="136"/>
       <source>File</source>
-      <translation type="unfinished"/>
+      <translation>Archivo</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="137"/>
       <source>Directory</source>
-      <translation type="unfinished"/>
+      <translation>Directorio</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="138"/>
       <source>Symbolic Link</source>
-      <translation type="unfinished"/>
+      <translation>Enlace simbólico</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="141"/>
       <source>Access</source>
-      <translation type="unfinished"/>
+      <translation>Acceso</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="142"/>
       <source>Modify</source>
-      <translation type="unfinished"/>
+      <translation>Modificar</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="143"/>
       <source>Change</source>
-      <translation type="unfinished"/>
+      <translation>Cambiar</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="145"/>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="150"/>
       <source>Smaller (&lt;)</source>
-      <translation type="unfinished"/>
+      <translation>Pequeño (&lt;)</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="146"/>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="151"/>
       <source>Equal (=)</source>
-      <translation type="unfinished"/>
+      <translation>Igual (=)</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="147"/>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="152"/>
       <source>Greater (&gt;)</source>
-      <translation type="unfinished"/>
+      <translation>Mayor (&gt;)</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="162"/>
       <source>Select Directory</source>
-      <translation type="unfinished"/>
+      <translation>Seleccionar directorio</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="168"/>
       <source>Directory: %1</source>
-      <translation type="unfinished"/>
+      <translation>Directorio: %1
+</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="177"/>
       <source>Advanced Search %1</source>
-      <translation type="unfinished"/>
+      <translation>Búsqueda avanzada %1</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="195"/>
       <source>Select the search directory.</source>
-      <translation type="unfinished"/>
+      <translation>Seleccione el directorio de búsqueda.</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="293"/>
       <source>Somethings went wrong, try again.</source>
-      <translation type="unfinished"/>
+      <translation>Algo falló, inténtalo nuevamente.</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Search/search_page.cpp" line="309"/>
       <source>%1 files found. Showing %2 of them.</source>
-      <translation type="unfinished"/>
+      <translation>Archivo %1 encontrado. Mostrando %2.</translation>
     </message>
   </context>
   <context>
@@ -1124,7 +1123,7 @@
     <message>
       <location filename="../stacer/Pages/Settings/settings_page.ui" line="97"/>
       <source>Theme</source>
-      <translation type="unfinished"/>
+      <translation>Tema</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Settings/settings_page.ui" line="110"/>
@@ -1139,17 +1138,17 @@
     <message>
       <location filename="../stacer/Pages/Settings/settings_page.ui" line="334"/>
       <source>Font Size Adjustment</source>
-      <translation type="unfinished"/>
+      <translation>Ajuste del tamaño de la fuente</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Settings/settings_page.ui" line="365"/>
       <source>Adjust font size relative to default (0 = default)</source>
-      <translation type="unfinished"/>
+      <translation>Ajustar tamaño de fuente relativo al predeterminado (0 = por defecto)</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Settings/settings_page.ui" line="426"/>
       <source>App Quit Don&apos;t Ask</source>
-      <translation type="unfinished"/>
+      <translation>App Salir de Don&apos;t Preguntar</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Settings/settings_page.ui" line="486"/>
@@ -1232,7 +1231,7 @@
     <message>
       <location filename="../stacer/Pages/Settings/settings_page.cpp" line="85"/>
       <source>Helpers</source>
-      <translation type="unfinished"/>
+      <translation>Ayudantes</translation>
     </message>
   </context>
   <context>
@@ -1278,12 +1277,12 @@
     <message>
       <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="58"/>
       <source>Generic Name</source>
-      <translation type="unfinished"/>
+      <translation>Nombre genérico</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="72"/>
       <source>App Icon</source>
-      <translation type="unfinished"/>
+      <translation>Icono de la aplicación</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="79"/>
@@ -1316,7 +1315,7 @@
     <message>
       <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="67"/>
       <source>Startup Apps are disabled.</source>
-      <translation type="unfinished"/>
+      <translation>Las aplicaciones de inicio están desactivadas.</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="127"/>
@@ -1360,7 +1359,7 @@
       <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="493"/>
       <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="638"/>
       <source>Select all</source>
-      <translation type="unfinished"/>
+      <translation>Seleccionar todo</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="651"/>
@@ -1370,7 +1369,7 @@
     <message>
       <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="759"/>
       <source>Sort by: </source>
-      <translation type="unfinished"/>
+      <translation>Ordenar por: </translation>
     </message>
     <message>
       <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="773"/>
@@ -1386,7 +1385,7 @@
     <message>
       <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="182"/>
       <source>Total size: %1</source>
-      <translation type="unfinished"/>
+      <translation>Tamaño total: %1</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="791"/>
@@ -1411,12 +1410,12 @@
     <message>
       <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="371"/>
       <source>System Packages</source>
-      <translation type="unfinished"/>
+      <translation>Paquetes del Sistema</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="393"/>
       <source>Snap Packages</source>
-      <translation type="unfinished"/>
+      <translation>Adherir paquetes</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="442"/>
@@ -1437,18 +1436,18 @@
     <message>
       <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="102"/>
       <source>Packages (%1)</source>
-      <translation type="unfinished"/>
+      <translation>Paquetes (%1)</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="107"/>
       <source>Snap Packages (%1)</source>
-      <translation type="unfinished"/>
+      <translation>Adherir paquetes (%1)</translation>
     </message>
     <message>
       <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="208"/>
       <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="215"/>
       <source>Uninstall Selected (%1)</source>
-      <translation type="unfinished"/>
+      <translation>Desinstalar seleccionado (%d)</translation>
     </message>
   </context>
   <context>
