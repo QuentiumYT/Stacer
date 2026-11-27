@@ -207,7 +207,7 @@
     <message>
         <location filename="../stacer/app.cpp" line="114"/>
         <location filename="../stacer/app.cpp" line="121"/>
-        <location filename="../stacer/app.cpp" line="179"/>
+        <location filename="../stacer/app.cpp" line="181"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
@@ -688,6 +688,11 @@
         <translation>Группа</translation>
     </message>
     <message>
+        <location filename="../stacer/Pages/Processes/processes_page.cpp" line="30"/>
+        <source>%CPU</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="31"/>
         <source>Nice</source>
         <translation>Приоритет</translation>
@@ -827,229 +832,229 @@
         <translation>Поиск...</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="211"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="217"/>
         <source>Case Insensitive</source>
         <translation>Без учёта регистра</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="298"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="304"/>
         <source> minute</source>
         <translation> минута</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="370"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="376"/>
         <source>Search as Root</source>
         <translation>Искать с правами Root</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="377"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="383"/>
         <source>Owner</source>
         <translation>Владелец</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="406"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="412"/>
         <source>RegEx</source>
         <translation>Регулярное выражение</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="483"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="489"/>
         <source>Permissions</source>
         <translation>Права</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="490"/>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="27"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="496"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="29"/>
         <source>Size</source>
         <translation>Размер</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="514"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="520"/>
         <source>Readable</source>
         <translation>Чтение</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="530"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="536"/>
         <source>Writable</source>
         <translation>Запись</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="546"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="552"/>
         <source>Executable</source>
         <translation>Исполняемый</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="555"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="561"/>
         <source>Time</source>
         <translation>Время</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="584"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="590"/>
         <source>Empty</source>
         <translation>Пустой</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="591"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="597"/>
         <source>File or Folder:</source>
         <translation>Файл или папка:</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="607"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="613"/>
         <source>Invert</source>
         <translation>Обратить</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="650"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="656"/>
         <source>Advanced Search</source>
         <translation>Расширенный поиск</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.ui" line="690"/>
+        <location filename="../stacer/Pages/Search/search_page.ui" line="696"/>
         <source>BETA version</source>
         <translation>БЕТА-версия</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="25"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="27"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="26"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="28"/>
         <source>Path</source>
         <translation>Путь</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="28"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="30"/>
         <source>User</source>
         <translation>Пользователь</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="29"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="31"/>
         <source>Group</source>
         <translation>Группа</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="30"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="32"/>
         <source>Creation Time</source>
         <translation>Дата создания</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="31"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="33"/>
         <source>Last Access</source>
         <translation>Последний доступ</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="32"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="34"/>
         <source>Last Modification</source>
         <translation>Последняя правка</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="33"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="35"/>
         <source>Last Change</source>
         <translation>Последнее изменение</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="88"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="107"/>
         <source>Open Folder</source>
         <translation>Открыть папку</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="92"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="111"/>
         <source>Move Trash</source>
         <translation>Убрать в корзину</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="96"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="115"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="129"/>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="132"/>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="140"/>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="149"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="148"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="151"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="159"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="168"/>
         <source>Choose</source>
         <translation>Выбрать</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="135"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="154"/>
         <source>All</source>
         <translation>Все</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="136"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="155"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="137"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="156"/>
         <source>Directory</source>
         <translation>Каталог</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="138"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="157"/>
         <source>Symbolic Link</source>
         <translation>Символическая ссылка</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="141"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="160"/>
         <source>Access</source>
         <translation>Доступ</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="142"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="161"/>
         <source>Modify</source>
         <translation>Правка</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="143"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="162"/>
         <source>Change</source>
         <translation>Изменение</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="145"/>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="150"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="164"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="169"/>
         <source>Smaller (&lt;)</source>
         <translation>Меньше (&lt;)</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="146"/>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="151"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="165"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="170"/>
         <source>Equal (=)</source>
         <translation>Равно (=)</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="147"/>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="152"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="166"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="171"/>
         <source>Greater (&gt;)</source>
         <translation>Больше (&gt;)</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="162"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="181"/>
         <source>Select Directory</source>
         <translation>Выбрать каталог</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="168"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="187"/>
         <source>Directory: %1</source>
         <translation>Каталог: %1</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="177"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="196"/>
         <source>Advanced Search %1</source>
         <translation>Расширенный поиск %1</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="195"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="214"/>
         <source>Select the search directory.</source>
         <translation>Выбрать каталог поиска.</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="293"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="312"/>
         <source>Somethings went wrong, try again.</source>
         <translation>Что-то пошло не так, повторите попытку.</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Search/search_page.cpp" line="309"/>
+        <location filename="../stacer/Pages/Search/search_page.cpp" line="328"/>
         <source>%1 files found. Showing %2 of them.</source>
         <translation>Найдено файлов: %1. Из них показано: %2.</translation>
     </message>
@@ -1377,24 +1382,24 @@
         <translation>Имя</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="35"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="36"/>
         <source>File Name</source>
         <translation>Имя файла</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="182"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="214"/>
         <source>Total size: %1</source>
         <translation>Общий размер: %1</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="791"/>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="800"/>
-        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="35"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="36"/>
         <source>Size</source>
         <translation>Размер</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="295"/>
+        <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="330"/>
         <source>%1 size files cleaned.</source>
         <translation>Освобождено %1.</translation>
     </message>
@@ -1433,18 +1438,18 @@
         <translation>Удалить выбранные</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="102"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="114"/>
         <source>Packages (%1)</source>
         <translation>Пакеты (%1)</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="107"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="119"/>
         <source>Snap Packages (%1)</source>
         <translation>Пакеты Snap (%1)</translation>
     </message>
     <message>
-        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="208"/>
-        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="215"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="220"/>
+        <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="227"/>
         <source>Uninstall Selected (%1)</source>
         <translation>Удалить выбранные (%1)</translation>
     </message>
